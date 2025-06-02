@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Infer Statistical Package\n\n\n\nData Science\n\n\nR\n\n\n\nStatistical inference deals with making some form of inference about the population under study based on a sample. The infer package provides a smooth workflow for…\n\n\n\nJoash Geteregechi\n\n\nJul 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudy Abroad Tips for International Students\n\n\n\nUpcoming Posts\n\n\n\nEmbarking on a journey to study in the United States can be both exciting and daunting for international students. The process involves a myriad of tasks, from obtaining the…\n\n\n\nJoash Geteregechi\n\n\nJul 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaking the Case for the Pipe\n\n\n\nData Science\n\n\nR\n\n\n\nThe pipe operator,%&gt;%, is one of the most commonly used notations in tidyverse. Why is this operator so important?\n\n\n\nJoash Geteregechi\n\n\nJul 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLabelled Data\n\n\n\nData Science\n\n\nR\n\n\n\nLabeled Data frames allow you to see the variable details in a data frame. But how do you create these labels?\n\n\n\nJoash Geteregechi\n\n\nJul 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSorting the mess: Data Wrangling in Tidyverse\n\n\n\nData Science\n\n\nR\n\n\n\nData Scientists spend a significant chunk of their time tranforming data into an easily (and readily) usable form. This process is known as data wrangling. This post…\n\n\n\nJoash Geteregechi\n\n\nNov 15, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Geteregechi, J. M. (2023). Investigating undergraduate students’ mathematical reasoning via problem posing. International Journal of Mathematical Education in Science and Technology, 1-20. doi: https://doi.org/10.1080/0020739X.2023.2169646\nGeteregechi, J.M.(2023). Characterizing Undergraduate students’ Problem Posing Products and Processes in an Introductory Business Mathematics Course. Proceedings of the 25th Annual Conference on Research in Undergraduate Mathematics Education. Omaha, Nebraska, USA.\nGeteregechi, J.M. (2022). Investigating undergraduate students’ mathematical creativity via problem posing. Proceedings of the 12th International Conference on Mathematical Creativity and Giftedness (MCG 12). pp 186-192. Las Vegas, Nevada, USA. doi: https://doi.org/10.37626/GA9783959872263.0\nGeteregechi, J.M. (2021). Characterizing undergraduate students’ problem posing products and processes in an Introductory Business mathematics course. Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education. Boston, MA, USA.\nAltindis, N., Geteregechi, J.M., & Waswa A. (2021). Networking multiple reasoning perspectives to characterize students’ thinking about quantities and quantitative relationships. Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education. Boston, MA, USA.\nOgembo, J.O., Geteregechi, J.M. (2018). Influence of language skills on students’ learning and achievement in mathematics in basic education in Kenya. Research Journal of Educational Studies and Review 4 (1), pp. 6-11.\nGeteregechi, J.M. (2017). Investigating the role of mathematical problem posing on pre- service teachers’ problem solving processes. Proceedings of the 45th Annual Conference on Research Council on Mathematics Learning. Baton Rouge, Louisiana, USA.\nGeteregechi, J.M., Miheso-O’Connor, M. K., & Ondigi, S.R. (2015). How does notational competence affect student understanding and performance in mathematics? Proceedings of the 4th International Conference on Education, pp. 221-226. Nairobi, Kenya."
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Geteregechi, J. M. (2023). Investigating undergraduate students’ mathematical reasoning via problem posing. International Journal of Mathematical Education in Science and Technology, 1-20. doi: https://doi.org/10.1080/0020739X.2023.2169646\nGeteregechi, J.M.(2023). Characterizing Undergraduate students’ Problem Posing Products and Processes in an Introductory Business Mathematics Course. Proceedings of the 25th Annual Conference on Research in Undergraduate Mathematics Education. Omaha, Nebraska, USA.\nGeteregechi, J.M. (2022). Investigating undergraduate students’ mathematical creativity via problem posing. Proceedings of the 12th International Conference on Mathematical Creativity and Giftedness (MCG 12). pp 186-192. Las Vegas, Nevada, USA. doi: https://doi.org/10.37626/GA9783959872263.0\nGeteregechi, J.M. (2021). Characterizing undergraduate students’ problem posing products and processes in an Introductory Business mathematics course. Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education. Boston, MA, USA.\nAltindis, N., Geteregechi, J.M., & Waswa A. (2021). Networking multiple reasoning perspectives to characterize students’ thinking about quantities and quantitative relationships. Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education. Boston, MA, USA.\nOgembo, J.O., Geteregechi, J.M. (2018). Influence of language skills on students’ learning and achievement in mathematics in basic education in Kenya. Research Journal of Educational Studies and Review 4 (1), pp. 6-11.\nGeteregechi, J.M. (2017). Investigating the role of mathematical problem posing on pre- service teachers’ problem solving processes. Proceedings of the 45th Annual Conference on Research Council on Mathematics Learning. Baton Rouge, Louisiana, USA.\nGeteregechi, J.M., Miheso-O’Connor, M. K., & Ondigi, S.R. (2015). How does notational competence affect student understanding and performance in mathematics? Proceedings of the 4th International Conference on Education, pp. 221-226. Nairobi, Kenya."
+  },
+  {
+    "objectID": "publications.html#research-talks",
+    "href": "publications.html#research-talks",
+    "title": "Publications",
+    "section": "Research Talks",
+    "text": "Research Talks\n\nGeteregechi, J.M. (2021). Exploring Undergraduate students’ mathematical reasoning via problem posing. Research Talk (Preliminary Report) at the 2021 Mathematical Association of America (MAA) Mathfest Meeting. Virtual (Hopin/Zoom), USA.\nGeteregechi, J.M. (2021). Opportunities for mathematical reasoning in Open-source Statistics text- books. Talk at the 5th North Eastern Chapter of Research in Undergraduate Mathematics Education. Virtual (Zoom), New York, USA.\nGeteregechi, J.M. (2019). Investigating the nature of student learning in a precalculus course from a mathematical reasoning perspective. Talk at the 3rd North Eastern Chapter of Research in Undergraduate Mathematics Education. York College, New York, USA.\nGeteregechi, J.M. (2019). Creative mathematical reasoning among undergraduate students of mathematics. Talk at the 44th Annual New York State Regional Graduate Mathematics Conference. Syracuse, New York, USA.\nGeteregechi J.M. (2018). Opportunities for reasoning and proof in Form 2 (Grade 10) Mathematics textbooks in Kenya. Paper presented at the 10th Annual conference of Kenya Scholars and Studies Association (KESSA). Atlanta, Georgia."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joash Geteregechi",
+    "section": "",
+    "text": "My name is Joash Geteregechi. I am an Assistant Professor of mathematics at Ithaca College in Ithaca, New York. I am dedicated to inspiring and empowering students through the beauty and depth of mathematical concepts and how they can be used to solve many real-world problems. With a strong background in academia and a genuine enthusiasm for the subject, I strive to make mathematics accessible, engaging, and meaningful to learners of all levels and backgrounds.\n\n\nSyracuse University | Syracuse, New York| PhD (Mathematics Education) | Aug 2020\nKenyatta University | Nairobi, Kenya| M.Ed (Mathematics)| Sept 2013\nEgerton University | Nakuru, Kenya| B.Ed (Mathematics and Chemistry)| Dec 2008\n\n\n\nAssistant Professor of Mathematics | Ithaca College | Aug 2020 - Present\nTeaching Assistant (Mathematics) | Syracuse University | Aug 2015 - Aug 2020\nHigh School Teacher (Mathematics) | Nyamauro Secondary School | Sep 2010 - Apr 2015\n\n \n  \n   \n  \n    \n     twitter\n  \n  \n    \n     Github\n  \n  \n    \n     jgeteregechi@ithaca.edu"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-website",
+    "href": "index.html#welcome-to-my-website",
+    "title": "Joash Geteregechi",
+    "section": "",
+    "text": "My name is Joash Geteregechi. I am an Assistant Professor of mathematics at Ithaca College in Ithaca, New York. I am dedicated to inspiring and empowering students through the beauty and depth of mathematical concepts and how they can be used to solve many real-world problems. With a strong background in academia and a genuine enthusiasm for the subject, I strive to make mathematics accessible, engaging, and meaningful to learners of all levels and backgrounds.\n\n\nSyracuse University | Syracuse, New York| PhD (Mathematics Education) | Aug 2020\nKenyatta University | Nairobi, Kenya| M.Ed (Mathematics)| Sept 2013\nEgerton University | Nakuru, Kenya| B.Ed (Mathematics and Chemistry)| Dec 2008\n\n\n\nAssistant Professor of Mathematics | Ithaca College | Aug 2020 - Present\nTeaching Assistant (Mathematics) | Syracuse University | Aug 2015 - Aug 2020\nHigh School Teacher (Mathematics) | Nyamauro Secondary School | Sep 2010 - Apr 2015\n\n \n  \n   \n  \n    \n     twitter\n  \n  \n    \n     Github\n  \n  \n    \n     jgeteregechi@ithaca.edu"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Joash Geteregechi",
+    "section": "",
+    "text": "Syracuse University | Syracuse, New York| PhD (Mathematics Education) | Aug 2020\nKenyatta University | Nairobi, Kenya| M.Ed (Mathematics)| Sept 2013\nEgerton University | Nakuru, Kenya| B.Ed (Mathematics and Chemistry)| Dec 2008"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Joash Geteregechi",
+    "section": "",
+    "text": "Assistant Professor of Mathematics | Ithaca College | Aug 2020 - Present\nTeaching Assistant (Mathematics) | Syracuse University | Aug 2015 - Aug 2020\nHigh School Teacher (Mathematics) | Nyamauro Secondary School | Sep 2010 - Apr 2015"
+  }
+]
