@@ -7,3 +7,4 @@ image: logo.png
 href: "https://jmochogi.github.io/intermediate-stats/"
 ---
 
+-   <a href="https://jmochogi.github.io/intermediate-stats/" target="_blank">Fall 2023 - Ithaca College</a>

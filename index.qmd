@@ -14,6 +14,7 @@ about:
     - icon: email
       text: jgeteregechi@ithaca.edu
       href: jgeteregechi@ithaca.edu 
+toc: false
 ---
 
 ## Welcome to my Website
@@ -39,4 +40,4 @@ High School Teacher (Mathematics) \| Nyamauro Secondary School \| Sep 2010 - Apr
 
 :::
 
-### 
+ 

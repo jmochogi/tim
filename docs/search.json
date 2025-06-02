@@ -256,6 +256,34 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Infer Statistical Package\n\n\n\nData Science\n\n\nR\n\n\n\nStatistical inference deals with making some form of inference about the population under study based on a sample. The infer package provides a smooth workflow for…\n\n\n\nJoash Geteregechi\n\n\nJul 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudy Abroad Tips for International Students\n\n\n\nUpcoming Posts\n\n\n\nEmbarking on a journey to study in the United States can be both exciting and daunting for international students. The process involves a myriad of tasks, from obtaining the…\n\n\n\nJoash Geteregechi\n\n\nJul 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaking the Case for the Pipe\n\n\n\nData Science\n\n\nR\n\n\n\nThe pipe operator,%&gt;%, is one of the most commonly used notations in tidyverse. Why is this operator so important?\n\n\n\nJoash Geteregechi\n\n\nJul 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLabelled Data\n\n\n\nData Science\n\n\nR\n\n\n\nLabeled Data frames allow you to see the variable details in a data frame. But how do you create these labels?\n\n\n\nJoash Geteregechi\n\n\nJul 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSorting the mess: Data Wrangling in Tidyverse\n\n\n\nData Science\n\n\nR\n\n\n\nData Scientists spend a significant chunk of their time tranforming data into an easily (and readily) usable form. This process is known as data wrangling. This post…\n\n\n\nJoash Geteregechi\n\n\nNov 15, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Infer Statistical Package\n\n\n\nData Science\n\n\nR\n\n\n\nStatistical inference deals with making some form of inference about the population under study based on a sample. The infer package provides a smooth workflow for…\n\n\n\nJoash Geteregechi\n\n\nJul 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudy Abroad Tips for International Students\n\n\n\nUpcoming Posts\n\n\n\nEmbarking on a journey to study in the United States can be both exciting and daunting for international students. The process involves a myriad of tasks, from obtaining the…\n\n\n\nJoash Geteregechi\n\n\nJul 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaking the Case for the Pipe\n\n\n\nData Science\n\n\nR\n\n\n\nThe pipe operator,%&gt;%, is one of the most commonly used notations in tidyverse. Why is this operator so important?\n\n\n\nJoash Geteregechi\n\n\nJul 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLabelled Data\n\n\n\nData Science\n\n\nR\n\n\n\nLabeled Data frames allow you to see the variable details in a data frame. But how do you create these labels?\n\n\n\nJoash Geteregechi\n\n\nJul 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSorting the mess: Data Wrangling in Tidyverse\n\n\n\nIthaca College\n\n\n\nData Scientists spend a significant chunk of their time tranforming data into an easily (and readily) usable form. This process is known as data wrangling. This post…\n\n\n\nJoash Geteregechi\n\n\nNov 15, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/math-108/index.html",
+    "href": "teaching/math-108/index.html",
+    "title": "Applied Calculus",
+    "section": "",
+    "text": "Spring 2025 - Ithaca College"
+  },
+  {
+    "objectID": "teaching/math-240/index.html",
+    "href": "teaching/math-240/index.html",
+    "title": "Basic Statistics with R",
+    "section": "",
+    "text": "Spring 2025 - Ithaca College"
+  },
+  {
+    "objectID": "teaching/math-246/index.html",
+    "href": "teaching/math-246/index.html",
+    "title": "Intermediate Statistics",
+    "section": "",
+    "text": "Fall 2023 - Ithaca College"
+  },
+  {
+    "objectID": "teaching/math-104/index.html",
+    "href": "teaching/math-104/index.html",
+    "title": "Finite Mathematics with Calculus",
+    "section": "",
+    "text": "Fall 2023 - Ithaca College"
   }
 ]

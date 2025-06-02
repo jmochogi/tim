@@ -7,3 +7,4 @@ image: logo.jpeg
 href: "https://jmochogi.github.io/intermediate-stats/"
 ---
 
+-   <a href="https://jmochogi.github.io/basic-statwithR-sp25/" target="_blank">Spring 2025 - Ithaca College</a>

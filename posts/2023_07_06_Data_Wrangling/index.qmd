@@ -8,7 +8,7 @@ author:
     affiliation: Ithaca College department of mathematics. Views expressed here are my own, and do not represent the college's position.
     affiliation-url: https://ithaca.edu/ 
 date: 11-15-2022
-categories: [Data Science, R] # self-defined categories
+categories: [Ithaca College] # self-defined categories
 citation: 
   url: https://jmochogi.quarto.pub/posts/2023-07-06-Data-Wrangling/ 
 image: data_wrangling.jpg
