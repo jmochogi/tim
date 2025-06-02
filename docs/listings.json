@@ -1,5 +1,15 @@
 [
   {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/math-108/index.html",
+      "/teaching/math-240/index.html",
+      "/teaching/math-104/index.html",
+      "/teaching/math-246/index.html",
+      "/teaching/math-105/index.html"
+    ]
+  },
+  {
     "listing": "/posts.html",
     "items": [
       "/posts/2023_07_13_Statistical_Inference/index.html",

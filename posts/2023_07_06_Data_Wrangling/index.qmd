@@ -35,6 +35,7 @@ Suppose you want to create a new variable by transforming an existing variable. 
     + [about page](/about) in the sidebar (set in `content/about/sidebar/index.md`), and
     + [contact page](/contact) (set in `content/form/contact.md`). -->
 ```
+
 Read on to learn how to use these functions:
 
 ## [Select]{style="color:#349beb;"}

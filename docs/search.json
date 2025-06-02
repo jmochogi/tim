@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Infer Statistical Package\n\n\n\nData Science\n\n\nR\n\n\n\nStatistical inference deals with making some form of inference about the population under study based on a sample. The infer package provides a smooth workflow for…\n\n\n\nJoash Geteregechi\n\n\nJul 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudy Abroad Tips for International Students\n\n\n\nUpcoming Posts\n\n\n\nEmbarking on a journey to study in the United States can be both exciting and daunting for international students. The process involves a myriad of tasks, from obtaining the…\n\n\n\nJoash Geteregechi\n\n\nJul 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaking the Case for the Pipe\n\n\n\nData Science\n\n\nR\n\n\n\nThe pipe operator,%&gt;%, is one of the most commonly used notations in tidyverse. Why is this operator so important?\n\n\n\nJoash Geteregechi\n\n\nJul 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLabelled Data\n\n\n\nData Science\n\n\nR\n\n\n\nLabeled Data frames allow you to see the variable details in a data frame. But how do you create these labels?\n\n\n\nJoash Geteregechi\n\n\nJul 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSorting the mess: Data Wrangling in Tidyverse\n\n\n\nData Science\n\n\nR\n\n\n\nData Scientists spend a significant chunk of their time tranforming data into an easily (and readily) usable form. This process is known as data wrangling. This post…\n\n\n\nJoash Geteregechi\n\n\nNov 15, 2022\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Geteregechi, J. M. (2023). Investigating undergraduate students’ mathematical reasoning via problem posing. International Journal of Mathematical Education in Science and Technology, 1-20. doi: https://doi.org/10.1080/0020739X.2023.2169646\nGeteregechi, J.M.(2023). Characterizing Undergraduate students’ Problem Posing Products and Processes in an Introductory Business Mathematics Course. Proceedings of the 25th Annual Conference on Research in Undergraduate Mathematics Education. Omaha, Nebraska, USA.\nGeteregechi, J.M. (2022). Investigating undergraduate students’ mathematical creativity via problem posing. Proceedings of the 12th International Conference on Mathematical Creativity and Giftedness (MCG 12). pp 186-192. Las Vegas, Nevada, USA. doi: https://doi.org/10.37626/GA9783959872263.0\nGeteregechi, J.M. (2021). Characterizing undergraduate students’ problem posing products and processes in an Introductory Business mathematics course. Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education. Boston, MA, USA.\nAltindis, N., Geteregechi, J.M., & Waswa A. (2021). Networking multiple reasoning perspectives to characterize students’ thinking about quantities and quantitative relationships. Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education. Boston, MA, USA.\nOgembo, J.O., Geteregechi, J.M. (2018). Influence of language skills on students’ learning and achievement in mathematics in basic education in Kenya. Research Journal of Educational Studies and Review 4 (1), pp. 6-11.\nGeteregechi, J.M. (2017). Investigating the role of mathematical problem posing on pre- service teachers’ problem solving processes. Proceedings of the 45th Annual Conference on Research Council on Mathematics Learning. Baton Rouge, Louisiana, USA.\nGeteregechi, J.M., Miheso-O’Connor, M. K., & Ondigi, S.R. (2015). How does notational competence affect student understanding and performance in mathematics? Proceedings of the 4th International Conference on Education, pp. 221-226. Nairobi, Kenya."
-  },
-  {
-    "objectID": "publications.html#publications",
-    "href": "publications.html#publications",
-    "title": "Publications",
-    "section": "",
-    "text": "Geteregechi, J. M. (2023). Investigating undergraduate students’ mathematical reasoning via problem posing. International Journal of Mathematical Education in Science and Technology, 1-20. doi: https://doi.org/10.1080/0020739X.2023.2169646\nGeteregechi, J.M.(2023). Characterizing Undergraduate students’ Problem Posing Products and Processes in an Introductory Business Mathematics Course. Proceedings of the 25th Annual Conference on Research in Undergraduate Mathematics Education. Omaha, Nebraska, USA.\nGeteregechi, J.M. (2022). Investigating undergraduate students’ mathematical creativity via problem posing. Proceedings of the 12th International Conference on Mathematical Creativity and Giftedness (MCG 12). pp 186-192. Las Vegas, Nevada, USA. doi: https://doi.org/10.37626/GA9783959872263.0\nGeteregechi, J.M. (2021). Characterizing undergraduate students’ problem posing products and processes in an Introductory Business mathematics course. Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education. Boston, MA, USA.\nAltindis, N., Geteregechi, J.M., & Waswa A. (2021). Networking multiple reasoning perspectives to characterize students’ thinking about quantities and quantitative relationships. Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education. Boston, MA, USA.\nOgembo, J.O., Geteregechi, J.M. (2018). Influence of language skills on students’ learning and achievement in mathematics in basic education in Kenya. Research Journal of Educational Studies and Review 4 (1), pp. 6-11.\nGeteregechi, J.M. (2017). Investigating the role of mathematical problem posing on pre- service teachers’ problem solving processes. Proceedings of the 45th Annual Conference on Research Council on Mathematics Learning. Baton Rouge, Louisiana, USA.\nGeteregechi, J.M., Miheso-O’Connor, M. K., & Ondigi, S.R. (2015). How does notational competence affect student understanding and performance in mathematics? Proceedings of the 4th International Conference on Education, pp. 221-226. Nairobi, Kenya."
-  },
-  {
-    "objectID": "publications.html#research-talks",
-    "href": "publications.html#research-talks",
-    "title": "Publications",
-    "section": "Research Talks",
-    "text": "Research Talks\n\nGeteregechi, J.M. (2021). Exploring Undergraduate students’ mathematical reasoning via problem posing. Research Talk (Preliminary Report) at the 2021 Mathematical Association of America (MAA) Mathfest Meeting. Virtual (Hopin/Zoom), USA.\nGeteregechi, J.M. (2021). Opportunities for mathematical reasoning in Open-source Statistics text- books. Talk at the 5th North Eastern Chapter of Research in Undergraduate Mathematics Education. Virtual (Zoom), New York, USA.\nGeteregechi, J.M. (2019). Investigating the nature of student learning in a precalculus course from a mathematical reasoning perspective. Talk at the 3rd North Eastern Chapter of Research in Undergraduate Mathematics Education. York College, New York, USA.\nGeteregechi, J.M. (2019). Creative mathematical reasoning among undergraduate students of mathematics. Talk at the 44th Annual New York State Regional Graduate Mathematics Conference. Syracuse, New York, USA.\nGeteregechi J.M. (2018). Opportunities for reasoning and proof in Form 2 (Grade 10) Mathematics textbooks in Kenya. Paper presented at the 10th Annual conference of Kenya Scholars and Studies Association (KESSA). Atlanta, Georgia."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Joash Geteregechi",
@@ -54,5 +26,236 @@
     "title": "Joash Geteregechi",
     "section": "",
     "text": "Assistant Professor of Mathematics | Ithaca College | Aug 2020 - Present\nTeaching Assistant (Mathematics) | Syracuse University | Aug 2015 - Aug 2020\nHigh School Teacher (Mathematics) | Nyamauro Secondary School | Sep 2010 - Apr 2015"
+  },
+  {
+    "objectID": "posts/2023_7_11_Labelled_Dataframes/index.html",
+    "href": "posts/2023_7_11_Labelled_Dataframes/index.html",
+    "title": "Labelled Data",
+    "section": "",
+    "text": "Labelled data are similar to regular data, but with the added feature of variable labels. Variable labels are descriptive names that can be assigned to each column in the data frame. This can make it easier to understand what each column represents and to communicate your results more effectively.\nHaving a separate documentation for checking labels can slow down your workflow.\nYou will need the following packages to create and use variable labels in your data frame. If you are missing any of these, you will need to install them first.\n\n\nCode\nlibrary(tidyverse)      # general wrangling\nlibrary(labelled)       # for general functions to work with labelled data\nlibrary(sjlabelled)     # for example efc data set with variable labels\nlibrary(gtsummary)      # to demonstrate automatic use of variable labels in summary tables \nlibrary(ggeasy)         # to use variable labels in ggplot"
+  },
+  {
+    "objectID": "posts/2023_7_11_Labelled_Dataframes/index.html#what-is-labelled-data",
+    "href": "posts/2023_7_11_Labelled_Dataframes/index.html#what-is-labelled-data",
+    "title": "Labelled Data",
+    "section": "",
+    "text": "Labelled data are similar to regular data, but with the added feature of variable labels. Variable labels are descriptive names that can be assigned to each column in the data frame. This can make it easier to understand what each column represents and to communicate your results more effectively.\nHaving a separate documentation for checking labels can slow down your workflow.\nYou will need the following packages to create and use variable labels in your data frame. If you are missing any of these, you will need to install them first.\n\n\nCode\nlibrary(tidyverse)      # general wrangling\nlibrary(labelled)       # for general functions to work with labelled data\nlibrary(sjlabelled)     # for example efc data set with variable labels\nlibrary(gtsummary)      # to demonstrate automatic use of variable labels in summary tables \nlibrary(ggeasy)         # to use variable labels in ggplot"
+  },
+  {
+    "objectID": "posts/2023_7_11_Labelled_Dataframes/index.html#labelling-your-data-frame",
+    "href": "posts/2023_7_11_Labelled_Dataframes/index.html#labelling-your-data-frame",
+    "title": "Labelled Data",
+    "section": "Labelling your data frame",
+    "text": "Labelling your data frame\nAs an example, we are going to label the popular mtcars data frame that comes with R. We use the function set_variable_labels() in the following manner to achieve this goal. Notice that the labels are strings so we put them in quotes:\n\n\nCode\nmtcars_labelled &lt;- mtcars %&gt;% \n  set_variable_labels(\n    mpg     = \"Miles travelled per gallon\",\n    cyl      = \"Number of cylinders\",\n    disp    = \"Displacement\",\n    hp      = \"Gross horsepower\",\n    drat    = \"Rear axle ratio\",\n    wt      = \"Weight (1000 lbs)\",\n    qsec    = \"1/4 mile time\",\n    vs      = \"Engine (0 = V-shaped, 1 = straight)\",\n    am      = \"Transmission (0 = automatic, 1 = manual)\",\n    gear    = \"Number of forward gears\",\n    carb    = \"Number of carburetors\"\n  )\n\n\nNote that if you mistype any of variables, the labels will not be created. You should double check to ensure that you typed everything correctly.\nRun the code view(mtcars_labelled) to check whether there are any errors with your labeling."
+  },
+  {
+    "objectID": "posts/2023_7_11_Labelled_Dataframes/index.html#graphs",
+    "href": "posts/2023_7_11_Labelled_Dataframes/index.html#graphs",
+    "title": "Labelled Data",
+    "section": "Graphs",
+    "text": "Graphs\nWe can also create graphs using the labels. Here is a scatter plot of horse power against displacement. The points are colored by number of cylinders.\n\n\nCode\nmtcars_labelled |&gt; \n  ggplot(aes(x = disp, y = hp, color = cyl)) +\n  geom_point() +\n  easy_labs()"
+  },
+  {
+    "objectID": "posts/2023_7_11_Labelled_Dataframes/index.html#in-summary-tables",
+    "href": "posts/2023_7_11_Labelled_Dataframes/index.html#in-summary-tables",
+    "title": "Labelled Data",
+    "section": "In Summary Tables",
+    "text": "In Summary Tables\nHere is an example of a summary table using labels instead of the variables themselves:\n\n\nCode\nmtcars_labelled |&gt; \n  select(gear, vs, hp) |&gt; \n  tbl_summary(\n    by = vs\n  ) |&gt; \n  bold_labels()\n\n\n\n\n\n\n\n\n\n\n\n\n\nCharacteristic\n0\nN = 181\n1\nN = 141\n\n\n\n\nNumber of forward gears\n\n\n\n\n\n\n    3\n12 (67%)\n3 (21%)\n\n\n    4\n2 (11%)\n10 (71%)\n\n\n    5\n4 (22%)\n1 (7.1%)\n\n\nGross horsepower\n180 (150, 230)\n96 (66, 110)\n\n\n\n1 n (%); Median (Q1, Q3)\n\n\n\n\n\n\n\n\n\nFinally, you can easily generate a data dictionary to see the variables, their lables, and types. Use the code:\n\n\nCode\nmtcars_labelled |&gt; \n  generate_dictionary()\n\n\n pos variable label                                    col_type missing values\n 1   mpg      Miles travelled per gallon               dbl      0             \n 2   cyl      Number of cylinders                      dbl      0             \n 3   disp     Displacement                             dbl      0             \n 4   hp       Gross horsepower                         dbl      0             \n 5   drat     Rear axle ratio                          dbl      0             \n 6   wt       Weight (1000 lbs)                        dbl      0             \n 7   qsec     1/4 mile time                            dbl      0             \n 8   vs       Engine (0 = V-shaped, 1 = straight)      dbl      0             \n 9   am       Transmission (0 = automatic, 1 = manual) dbl      0             \n 10  gear     Number of forward gears                  dbl      0             \n 11  carb     Number of carburetors                    dbl      0             \n\n\nFor more information about labelling, including automatic labelling of huge data frames, check out Shannon Pileggi’s site.\nHappy labeling!"
+  },
+  {
+    "objectID": "posts/2023_07_06_Data_Wrangling/index.html",
+    "href": "posts/2023_07_06_Data_Wrangling/index.html",
+    "title": "Sorting the mess: Data Wrangling in Tidyverse",
+    "section": "",
+    "text": "There are times when you have a data set with several cases (rows) and variables (columns) but you are interested in a subset of these. What do you do that case?\nSuppose you want to create a new variable by transforming an existing variable. What do you do? Manipulating a data set into a format that suites your analysis is called data wrangling. Here are the basic techniques used in data wrangling:\n\nselect\nmutate\nfilter\narrange\n“summarize”, and\ngroup_by\ndrop_na\n\n\nRead on to learn how to use these functions:"
+  },
+  {
+    "objectID": "posts/2023_07_06_Data_Wrangling/index.html#introduction",
+    "href": "posts/2023_07_06_Data_Wrangling/index.html#introduction",
+    "title": "Sorting the mess: Data Wrangling in Tidyverse",
+    "section": "",
+    "text": "There are times when you have a data set with several cases (rows) and variables (columns) but you are interested in a subset of these. What do you do that case?\nSuppose you want to create a new variable by transforming an existing variable. What do you do? Manipulating a data set into a format that suites your analysis is called data wrangling. Here are the basic techniques used in data wrangling:\n\nselect\nmutate\nfilter\narrange\n“summarize”, and\ngroup_by\ndrop_na\n\n\nRead on to learn how to use these functions:"
+  },
+  {
+    "objectID": "posts/2023_07_06_Data_Wrangling/index.html#select",
+    "href": "posts/2023_07_06_Data_Wrangling/index.html#select",
+    "title": "Sorting the mess: Data Wrangling in Tidyverse",
+    "section": "Select",
+    "text": "Select\nThe select function is used to select specific variables (columns) from a larger data set.\nSuppose you have a data set named Data with several variables (a, b, c, d, e, f, g, and h). Suppose you are interested in creating a new data set named New_Data with variables a,b, and c only. To create this new data set, you use the following command:\nNew_Data &lt;- Data %&gt;% \nselect (a, b, c)\nNote:\n\nAfter running the above code, a new data set named New_Data will be created with only three variables a, b, and c.\nThe symbols &lt;- is used to designate a new object while %&gt;% is a “pipe” that sends anything on the its left to the commands on the right side. In this case, we pipe Data into a select function, then we state what columns we want to select.\n\nNext, we consider the mutate function."
+  },
+  {
+    "objectID": "posts/2023_07_06_Data_Wrangling/index.html#mutate",
+    "href": "posts/2023_07_06_Data_Wrangling/index.html#mutate",
+    "title": "Sorting the mess: Data Wrangling in Tidyverse",
+    "section": "Mutate",
+    "text": "Mutate\nThe mutate function alters (mutates) an existing variable in some way and creates a new column(variable) with a name that you designate. Suppose you want to create a new variable called sum that adds the values of variable a and b for each case. Suppose your data set is called Data and you want to use New_Data_2\n  New_Data_2 &lt;- Data %&gt;% \n  mutate (sum = a+b)\n   \nNote:\n\nIf you want to delete the original variable from the data set, you can use the “transmute” instead of “mutate”.\nThe above example assumes that variables a and b are both numerical, otherwise, addition may not be possible.\nYou can do other operations besides addition."
+  },
+  {
+    "objectID": "posts/2023_07_06_Data_Wrangling/index.html#filter",
+    "href": "posts/2023_07_06_Data_Wrangling/index.html#filter",
+    "title": "Sorting the mess: Data Wrangling in Tidyverse",
+    "section": "Filter",
+    "text": "Filter\nJust like we can select certain variables (columns) from a data set, it is possible to filter a certain rows (cases/observations) in a data set.\nSuppose you have a variable called sex and you want to isolate cases for which sex is female. Suppose also that you want to name your new data set as New_Data_3. Use the code\nNew_Data_3 &lt;- Data %&gt;% \nfilter (sex == \"female\")\nNote:\n\nYou can also filter using multiple criteria. For example, if you have another variable called age and you want females that are above 30, you can use the code:\nNew_Data_3 &lt;- Data %&gt;% \nfilter (sex == \"female\", age &gt; 30)\nWe use double equal signs “==” to specify the levels of the categorical variable. The level specified must be put in quotes.\nThe new data set will have fewer cases than the original data set.\nIf you want to have an “OR” condition (e.g., cases that are female OR aged above 30), you use “|” instead of a comma to separate the variables."
+  },
+  {
+    "objectID": "posts/2023_07_06_Data_Wrangling/index.html#group_by",
+    "href": "posts/2023_07_06_Data_Wrangling/index.html#group_by",
+    "title": "Sorting the mess: Data Wrangling in Tidyverse",
+    "section": "Group_by",
+    "text": "Group_by\nGroup_by is a special kind of filtering that is commonly used alongside a summarize function. Suppose you want to compute the average age by sex (are males older than female cases on average?). Here, you first use the group_by function to group the cases by sex, then run the summarize function and call the mean. See code below:\n  Dataset %&gt;% \n  group_by (sex) %&gt;%\n  summarize(mean(age))\nNote:\n\nThe group_by function makes R to think about the data as different data frames.\nThe above code returns the means for each group in a single row. It essentially flattens the data (i.e., the summarize function)\nIf, for some reason, you want to have a new column in the data set with the mean score for each group, you can replace the summarize function with mutate as follows:\nNew &lt;- Data %&gt;% \ngroup_by(sex) %&gt;% \nmutate(mean=mean(age))\nThis will add a new column named mean to your data set (now named New) with the mean age for each group."
+  },
+  {
+    "objectID": "posts/2023_07_06_Data_Wrangling/index.html#drop_na",
+    "href": "posts/2023_07_06_Data_Wrangling/index.html#drop_na",
+    "title": "Sorting the mess: Data Wrangling in Tidyverse",
+    "section": "drop_na",
+    "text": "drop_na\nSome statistics may not be computed with if the variable of interest has missing values (these appear as na ). In such cases, it might be necessary to drop missing values before moving forward with your analysis. To drop missing values from a given column such as age, you use the na function as shown below:\nNew_Data &lt;- Data %&gt;% \ndrop_na(age)\nIf you goal was to, say, compute the mean age, you do not need to do a two-step operation, you can leverage the pipe operator and drop na then compute the mean as an extra step:\nNew_Data &lt;- Data %&gt;% \ndrop_na(age) %&gt;% \nsummarize(mean(age)) # adding an extra line to compute mean"
+  },
+  {
+    "objectID": "posts/2023_07_09_Why_The_Pipe/index.html",
+    "href": "posts/2023_07_09_Why_The_Pipe/index.html",
+    "title": "Making the Case for the Pipe",
+    "section": "",
+    "text": "In the world of data analysis and programming, efficiency and readability are key. When working with RStudio and the Tidyverse, a powerful tool called the pipe operator, denoted as %&gt;%, can greatly enhance your workflow and code readability. In this post, I delve into the advantages of using the pipe operator and how it can streamline your data manipulation and analysis tasks."
+  },
+  {
+    "objectID": "posts/2023_07_09_Why_The_Pipe/index.html#introduction",
+    "href": "posts/2023_07_09_Why_The_Pipe/index.html#introduction",
+    "title": "Making the Case for the Pipe",
+    "section": "",
+    "text": "In the world of data analysis and programming, efficiency and readability are key. When working with RStudio and the Tidyverse, a powerful tool called the pipe operator, denoted as %&gt;%, can greatly enhance your workflow and code readability. In this post, I delve into the advantages of using the pipe operator and how it can streamline your data manipulation and analysis tasks."
+  },
+  {
+    "objectID": "posts/2023_07_09_Why_The_Pipe/index.html#streamlining-data-transformations",
+    "href": "posts/2023_07_09_Why_The_Pipe/index.html#streamlining-data-transformations",
+    "title": "Making the Case for the Pipe",
+    "section": "Streamlining Data Transformations",
+    "text": "Streamlining Data Transformations\nTraditionally, when working with multiple functions in R, you need to nest the function calls, making the code harder to read and follow. The pipe operator simplifies this process by allowing you to chain operations together in a more intuitive and readable manner."
+  },
+  {
+    "objectID": "posts/2023_07_09_Why_The_Pipe/index.html#improved-code-readability",
+    "href": "posts/2023_07_09_Why_The_Pipe/index.html#improved-code-readability",
+    "title": "Making the Case for the Pipe",
+    "section": "Improved Code Readability",
+    "text": "Improved Code Readability\nBy using the pipe operator, your code becomes more readable and follows a natural left-to-right flow. Each step in your data analysis can be clearly separated, making it easier to understand the sequence of transformations applied to the data. This readability is particularly valuable when working collaboratively or revisiting code after a period of time. To make your code even easier to read, it is recommended to move to the next line at the end of each pipe. See example below:\nIt is easier to read this code;\n  Dataset %&gt;% \n  group_by(sex) %&gt;%\n  summarize(mean(age))\n……… than to read this;\n  Dataset%&gt;%group_by(sex)%&gt;%summarize(mean(age))\nIn the above code, we are taking our data set and sending (via a pipe) to the group_by function which will group the data set by sex and finally taking the mean of the age variable using the summarize function. If you had, say, 5 steps (i.e., 4 pipes) reading horizontally becomes much harder than vertically."
+  },
+  {
+    "objectID": "posts/2023_07_09_Why_The_Pipe/index.html#avoiding-intermediate-variables",
+    "href": "posts/2023_07_09_Why_The_Pipe/index.html#avoiding-intermediate-variables",
+    "title": "Making the Case for the Pipe",
+    "section": "Avoiding Intermediate Variables",
+    "text": "Avoiding Intermediate Variables\nAnother advantage of using the pipe operator is the ability to eliminate the need for intermediate variables. With traditional R code, you often need to store intermediate results in separate variables, increasing the clutter and complexity of your code. The pipe operator eliminates the need for such intermediate variables by allowing you to pass the output of one function directly to the next one, simplifying your code and reducing the chance of introducing errors."
+  },
+  {
+    "objectID": "posts/2023_07_09_Why_The_Pipe/index.html#integration-with-tidyverse-functions",
+    "href": "posts/2023_07_09_Why_The_Pipe/index.html#integration-with-tidyverse-functions",
+    "title": "Making the Case for the Pipe",
+    "section": "Integration with Tidyverse Functions",
+    "text": "Integration with Tidyverse Functions\nThe pipe operator integrates seamlessly with other functions from the Tidyverse ecosystem. Tidyverse packages such as dplyr, tidyr, and ggplot2 are designed to work well with the pipe operator, allowing you to create a cohesive and efficient data analysis pipeline. This integration helps you leverage the full power of Tidyverse and take advantage of its extensive set of data manipulation and visualization functions.\n\nAs you dive deeper into the Tidyverse ecosystem, consider embracing the pipe operator as a fundamental tool in your R programming toolkit. By harnessing its power, you can elevate your data analysis capabilities and unlock new possibilities in your projects. Happy piping!"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Applied Calculus\n\n\n\n\n\nThis course covers differential calculus ideas with a heavy emphasis on applications\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBasic Statistics with R\n\n\n\n\n\nThis course involves explorng statistical concepts using R statistical software\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinite Mathematics with Calculus\n\n\n\n\n\nIn tnis course, students learn a broad range of ideas in finite mathematics with a focus on applications in the business world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntermediate Statistics\n\n\n\n\n\nThis course incolves explorng statistical concepts not typically covered in introductory statistics courses. It uses R for data analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMathematics for Decision Making\n\n\n\n\n\nIn this course students learn basic ideas in mathematics of finance. Emphasis is placed on understanding how interest rates work and how they can use the knowledge in making decisions relating to investements, personal loans, mortgages, among others.\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2023_07_12_I_Wish_I_Knew_List/index.html#securing-the-right-visa",
+    "href": "posts/2023_07_12_I_Wish_I_Knew_List/index.html#securing-the-right-visa",
+    "title": "Study Abroad Tips for International Students",
+    "section": "Securing the Right Visa",
+    "text": "Securing the Right Visa\nThe first step in preparing for study in the U.S. is securing the appropriate visa. Most students will need an F-1 or J-1 visa. To apply for these visas, students must first be accepted into a Student and Exchange Visitor Program (SEVP) approved school. Once accepted, the school will provide a document called an I-20 or DS-2019, which is needed for the visa application."
+  },
+  {
+    "objectID": "posts/2023_07_12_I_Wish_I_Knew_List/index.html#pre-departure-preparation",
+    "href": "posts/2023_07_12_I_Wish_I_Knew_List/index.html#pre-departure-preparation",
+    "title": "Study Abroad Tips for International Students",
+    "section": "Pre-departure Preparation",
+    "text": "Pre-departure Preparation\n\nHealth Insurance\nHealthcare in the U.S. can be expensive. Therefore, it’s crucial to have a good health insurance plan. Many universities offer their own health insurance plans for students, but it’s also possible to purchase private health insurance.\n\n\nAccommodation\nSome universities offer on-campus housing, which can be a great way for international students to immerse themselves in campus life. Off-campus housing is also an option, and it can offer more independence and privacy.\n\n\nPacking\nWhen packing, consider the climate of the city you’ll be living in. Also, remember to pack important documents, such as your passport, visa, I-20 or DS-2019, and acceptance letter from your university."
+  },
+  {
+    "objectID": "posts/2023_07_12_I_Wish_I_Knew_List/index.html#upon-arrival",
+    "href": "posts/2023_07_12_I_Wish_I_Knew_List/index.html#upon-arrival",
+    "title": "Study Abroad Tips for International Students",
+    "section": "Upon Arrival",
+    "text": "Upon Arrival\n\nOrientation\nMost universities offer orientation programs for international students. These programs are designed to help students adjust to life in the U.S. and understand the academic system.\n\n\nSocial Security Number\nIf you plan to work in the U.S., you’ll need a Social Security number (SSN). You can apply for an SSN at your local Social Security office.\n\n\nBank Account\nOpening a bank account in the U.S. can make managing your finances easier. To open an account, you’ll typically need your passport, I-20 or DS-2019, and proof of address."
+  },
+  {
+    "objectID": "posts/2023_07_12_I_Wish_I_Knew_List/index.html#cultural-adjustment",
+    "href": "posts/2023_07_12_I_Wish_I_Knew_List/index.html#cultural-adjustment",
+    "title": "Study Abroad Tips for International Students",
+    "section": "Cultural Adjustment",
+    "text": "Cultural Adjustment\nLiving in a new country can be a culture shock. It’s important to be open-minded and patient with yourself as you adjust to American culture. Joining student clubs and organizations can be a great way to make friends and learn about American culture."
+  },
+  {
+    "objectID": "posts/2023_07_12_I_Wish_I_Knew_List/index.html#conclusion",
+    "href": "posts/2023_07_12_I_Wish_I_Knew_List/index.html#conclusion",
+    "title": "Study Abroad Tips for International Students",
+    "section": "Conclusion",
+    "text": "Conclusion\nWhile preparing for travel and study in the U.S. can seem overwhelming, careful planning can make the process smoother. Remember, studying abroad is not just about academics, it’s also an opportunity to learn about a new culture, make lifelong friends, and grow as an individual. Good luck on your journey!"
+  },
+  {
+    "objectID": "posts/2023_07_13_Statistical_Inference/index.html",
+    "href": "posts/2023_07_13_Statistical_Inference/index.html",
+    "title": "Infer Statistical Package",
+    "section": "",
+    "text": "Statistics is the bedrock of modern data analysis, enabling researchers and data scientists to draw meaningful conclusions from data. One crucial aspect of statistical analysis is statistical inference, which allows us to make predictions, test hypotheses, and estimate population parameters based on sample data. In the world of R programming, the infer package in RStudio is a powerful tool that simplifies and streamlines the process of conducting statistical inference. In this blog post, we’ll explore the infer package and learn how it can be harnessed to uncover hidden truths in your data."
+  },
+  {
+    "objectID": "posts/2023_07_13_Statistical_Inference/index.html#introduction",
+    "href": "posts/2023_07_13_Statistical_Inference/index.html#introduction",
+    "title": "Infer Statistical Package",
+    "section": "",
+    "text": "Statistics is the bedrock of modern data analysis, enabling researchers and data scientists to draw meaningful conclusions from data. One crucial aspect of statistical analysis is statistical inference, which allows us to make predictions, test hypotheses, and estimate population parameters based on sample data. In the world of R programming, the infer package in RStudio is a powerful tool that simplifies and streamlines the process of conducting statistical inference. In this blog post, we’ll explore the infer package and learn how it can be harnessed to uncover hidden truths in your data."
+  },
+  {
+    "objectID": "posts/2023_07_13_Statistical_Inference/index.html#what-is-the-infer-package",
+    "href": "posts/2023_07_13_Statistical_Inference/index.html#what-is-the-infer-package",
+    "title": "Infer Statistical Package",
+    "section": "What is the infer package?",
+    "text": "What is the infer package?\nThe infer package is an R package that provides a user-friendly interface for conducting statistical inference. Developed by Hadley Wickham and other contributors, this package extends the capabilities of tidyverse by offering functions designed to perform essential inferential tasks. Whether you need to estimate confidence intervals, perform hypothesis testing, or compare groups, the infer package has got you covered."
+  },
+  {
+    "objectID": "posts/2023_07_13_Statistical_Inference/index.html#key-features-and-functionalities",
+    "href": "posts/2023_07_13_Statistical_Inference/index.html#key-features-and-functionalities",
+    "title": "Infer Statistical Package",
+    "section": "Key Features and Functionalities",
+    "text": "Key Features and Functionalities\n\nPoint Estimates and Confidence Intervals:\nOne of the fundamental tasks in statistical inference is estimating population parameters from a sample. With the infer package, generating point estimates and constructing confidence intervals is a breeze. By leveraging the %&gt;% pipe operator and other tidyverse functions, you can easily summarize your data, compute the point estimates, and calculate confidence intervals.\n\n\nHypothesis Testing:\nThe infer package streamlines hypothesis testing in R. It allows you to compare groups or test against a known value, with a choice between parametric and non-parametric methods. Whether you are dealing with one-sample, two-sample, or paired data, the package offers intuitive functions to conduct t-tests, Wilcoxon tests, and much more.\n\n\nBootstrapping:\nBootstrapping is a powerful resampling technique for estimating the sampling distribution of a statistic. The infer package makes bootstrapping easy, enabling you to generate thousands of resamples, calculate confidence intervals, and visualize the results.\n\n\nRegression Inference:\nWhen dealing with regression models, the infer package enables you to assess the statistical significance of coefficients and compare models using the lm() or glm() functions. It also simplifies the process of generating predictions and confidence intervals for the response variable.\n\n\nRandomization Tests:\nRandomization tests, also known as permutation tests, are invaluable when you cannot make assumptions about the underlying data distribution. The infer package empowers you to perform randomization tests effortlessly, helping you draw valid conclusions from non-parametric data."
+  },
+  {
+    "objectID": "posts/2023_07_13_Statistical_Inference/index.html#examples-of-statistical-inference-with-infer",
+    "href": "posts/2023_07_13_Statistical_Inference/index.html#examples-of-statistical-inference-with-infer",
+    "title": "Infer Statistical Package",
+    "section": "Examples of Statistical Inference with infer",
+    "text": "Examples of Statistical Inference with infer\nYou can use the package to perform theory-based or simulation-based inference. I will walk you through how to perform each one of these for a single mean. I will use a data frame called gss (general social survey).\nSuppose we want to use our sample data to test the hypothesis that the population mean time (in hours) is different from 40 (this test is two-sided). Here are the hypotheses in words and in symbols:\n\nNull hypothesis: \\(H_0:\\mu=40\\), the population means is 40 hours.\nAlternative hypothesis: \\(H_a: \\mu \\neq 40\\), the population mean is not 40 hours.\n\n\nSimulation-based inference\n\nCalculate the observed statistic (i.e., sample mean for hours variable), saving it as x_bar.\nx_bar &lt;- gss %&gt;%\nspecify(response = hours) %&gt;%\ncalculate(stat = \"mean\")\nCreate the simulation-based null distribution. Here, we are simulating 1000 statistics (means) which we can then graph (next step) to visualize their distribution:\nnull_dist &lt;- gss %&gt;%\nspecify(response = hours) %&gt;%\nhypothesize(null = \"point\", mu = 40) %&gt;%\ngenerate(reps = 1000) %&gt;%\n  calculate(stat = \"mean\")\n(Optional step) Visualize the (sampling) distribution:\nvisualize(null_dist) +\nshade_p_value(obs_stat = x_bar, direction = \"two-sided\")\n\n\n\n\n\n.\n\n\n\n\nCalculate the p-value and write your conclusion:\nnull_dist %&gt;%\nget_p_value(obs_stat = x_bar, direction = \"two-sided\")\n\n\n\nTheory-based (t-test) inference\nThe theory-based inference assumes the t-distribution (must check all conditions) to find the p-value. Below are the steps:\n\nCalculate the observed statistic (the T-score) and save it as t_bar:\nt_bar &lt;- gss %&gt;%\nspecify(response = hours) %&gt;%\nhypothesize(null = \"point\", mu = 40) %&gt;%\ncalculate(stat = \"t\")\nGenerate the null distribution assuming the t-distribution:\nnull_dist_theory &lt;- gss %&gt;%\nspecify(response = hours)  %&gt;%\nassume(\"t\")\nVisualize\nvisualize(null_dist_theory) +\nshade_p_value(obs_stat = t_bar, direction = \"two-sided\")\n\n\n\n\n\n\n.\n\n\n\n\n\nCompute the p-value for your test and write the conclusion:\nnull_dist %&gt;%\nget_p_value(obs_stat = t_bar, direction = \"two-sided\")\n\nTo learn more about how to use infer for inference on other statistics, visit the infer website. The website also provides ways to create confidence intervals, which are are a very important part of statistical inference."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Geteregechi, J. M. (2023). Investigating undergraduate students’ mathematical reasoning via problem posing. International Journal of Mathematical Education in Science and Technology, 1-20. doi: https://doi.org/10.1080/0020739X.2023.2169646\nGeteregechi, J.M.(2023). Characterizing Undergraduate students’ Problem Posing Products and Processes in an Introductory Business Mathematics Course. Proceedings of the 25th Annual Conference on Research in Undergraduate Mathematics Education. Omaha, Nebraska, USA.\nGeteregechi, J.M. (2022). Investigating undergraduate students’ mathematical creativity via problem posing. Proceedings of the 12th International Conference on Mathematical Creativity and Giftedness (MCG 12). pp 186-192. Las Vegas, Nevada, USA. doi: https://doi.org/10.37626/GA9783959872263.0\nGeteregechi, J.M. (2021). Characterizing undergraduate students’ problem posing products and processes in an Introductory Business mathematics course. Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education. Boston, MA, USA.\nAltindis, N., Geteregechi, J.M., & Waswa A. (2021). Networking multiple reasoning perspectives to characterize students’ thinking about quantities and quantitative relationships. Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education. Boston, MA, USA.\nOgembo, J.O., Geteregechi, J.M. (2018). Influence of language skills on students’ learning and achievement in mathematics in basic education in Kenya. Research Journal of Educational Studies and Review 4 (1), pp. 6-11.\nGeteregechi, J.M. (2017). Investigating the role of mathematical problem posing on pre- service teachers’ problem solving processes. Proceedings of the 45th Annual Conference on Research Council on Mathematics Learning. Baton Rouge, Louisiana, USA.\nGeteregechi, J.M., Miheso-O’Connor, M. K., & Ondigi, S.R. (2015). How does notational competence affect student understanding and performance in mathematics? Proceedings of the 4th International Conference on Education, pp. 221-226. Nairobi, Kenya."
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Geteregechi, J. M. (2023). Investigating undergraduate students’ mathematical reasoning via problem posing. International Journal of Mathematical Education in Science and Technology, 1-20. doi: https://doi.org/10.1080/0020739X.2023.2169646\nGeteregechi, J.M.(2023). Characterizing Undergraduate students’ Problem Posing Products and Processes in an Introductory Business Mathematics Course. Proceedings of the 25th Annual Conference on Research in Undergraduate Mathematics Education. Omaha, Nebraska, USA.\nGeteregechi, J.M. (2022). Investigating undergraduate students’ mathematical creativity via problem posing. Proceedings of the 12th International Conference on Mathematical Creativity and Giftedness (MCG 12). pp 186-192. Las Vegas, Nevada, USA. doi: https://doi.org/10.37626/GA9783959872263.0\nGeteregechi, J.M. (2021). Characterizing undergraduate students’ problem posing products and processes in an Introductory Business mathematics course. Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education. Boston, MA, USA.\nAltindis, N., Geteregechi, J.M., & Waswa A. (2021). Networking multiple reasoning perspectives to characterize students’ thinking about quantities and quantitative relationships. Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education. Boston, MA, USA.\nOgembo, J.O., Geteregechi, J.M. (2018). Influence of language skills on students’ learning and achievement in mathematics in basic education in Kenya. Research Journal of Educational Studies and Review 4 (1), pp. 6-11.\nGeteregechi, J.M. (2017). Investigating the role of mathematical problem posing on pre- service teachers’ problem solving processes. Proceedings of the 45th Annual Conference on Research Council on Mathematics Learning. Baton Rouge, Louisiana, USA.\nGeteregechi, J.M., Miheso-O’Connor, M. K., & Ondigi, S.R. (2015). How does notational competence affect student understanding and performance in mathematics? Proceedings of the 4th International Conference on Education, pp. 221-226. Nairobi, Kenya."
+  },
+  {
+    "objectID": "publications.html#research-talks",
+    "href": "publications.html#research-talks",
+    "title": "Publications",
+    "section": "Research Talks",
+    "text": "Research Talks\n\nGeteregechi, J.M. (2021). Exploring Undergraduate students’ mathematical reasoning via problem posing. Research Talk (Preliminary Report) at the 2021 Mathematical Association of America (MAA) Mathfest Meeting. Virtual (Hopin/Zoom), USA.\nGeteregechi, J.M. (2021). Opportunities for mathematical reasoning in Open-source Statistics text- books. Talk at the 5th North Eastern Chapter of Research in Undergraduate Mathematics Education. Virtual (Zoom), New York, USA.\nGeteregechi, J.M. (2019). Investigating the nature of student learning in a precalculus course from a mathematical reasoning perspective. Talk at the 3rd North Eastern Chapter of Research in Undergraduate Mathematics Education. York College, New York, USA.\nGeteregechi, J.M. (2019). Creative mathematical reasoning among undergraduate students of mathematics. Talk at the 44th Annual New York State Regional Graduate Mathematics Conference. Syracuse, New York, USA.\nGeteregechi J.M. (2018). Opportunities for reasoning and proof in Form 2 (Grade 10) Mathematics textbooks in Kenya. Paper presented at the 10th Annual conference of Kenya Scholars and Studies Association (KESSA). Atlanta, Georgia."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Infer Statistical Package\n\n\n\nData Science\n\n\nR\n\n\n\nStatistical inference deals with making some form of inference about the population under study based on a sample. The infer package provides a smooth workflow for…\n\n\n\nJoash Geteregechi\n\n\nJul 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudy Abroad Tips for International Students\n\n\n\nUpcoming Posts\n\n\n\nEmbarking on a journey to study in the United States can be both exciting and daunting for international students. The process involves a myriad of tasks, from obtaining the…\n\n\n\nJoash Geteregechi\n\n\nJul 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaking the Case for the Pipe\n\n\n\nData Science\n\n\nR\n\n\n\nThe pipe operator,%&gt;%, is one of the most commonly used notations in tidyverse. Why is this operator so important?\n\n\n\nJoash Geteregechi\n\n\nJul 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLabelled Data\n\n\n\nData Science\n\n\nR\n\n\n\nLabeled Data frames allow you to see the variable details in a data frame. But how do you create these labels?\n\n\n\nJoash Geteregechi\n\n\nJul 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSorting the mess: Data Wrangling in Tidyverse\n\n\n\nData Science\n\n\nR\n\n\n\nData Scientists spend a significant chunk of their time tranforming data into an easily (and readily) usable form. This process is known as data wrangling. This post…\n\n\n\nJoash Geteregechi\n\n\nNov 15, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
