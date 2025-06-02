@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/math-108/index.html",
+      "/teaching/math-240/index.html",
+      "/teaching/math-104/index.html",
+      "/teaching/math-246/index.html",
+      "/teaching/math-105/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2023_07_13_Statistical_Inference/index.html",
+      "/posts/2023_07_12_I_Wish_I_Knew_List/index.html",
+      "/posts/2023_07_09_Why_The_Pipe/index.html",
+      "/posts/2023_7_11_Labelled_Dataframes/index.html",
+      "/posts/2023_07_06_Data_Wrangling/index.html"
+    ]
+  }
+]

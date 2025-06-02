@@ -1,0 +1,9 @@
+---
+title: "Intermediate Statistics"
+description: "This course incolves explorng statistical concepts not typically covered in introductory statistics courses. It uses R for data analysis."
+ 
+image: logo.png
+#draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+href: "https://jmochogi.github.io/intermediate-stats/"
+---
+

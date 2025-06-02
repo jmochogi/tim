@@ -1,0 +1,48 @@
+---
+title: "Study Abroad Tips for International Students"
+description: "Embarking on a journey to study in the United States can be both exciting and daunting for international students. The process involves a myriad of tasks, from obtaining the right visa to adjusting to a new culture. This blog post aims to provide a comprehensive guide to help international students prepare for their travel and study in the United States."
+author:
+  - name: Joash Geteregechi
+    url: https://jmochogi.quarto.pub
+    #orcid: 0000-0003-0266-4006
+    affiliation: Ithaca College department of mathematics. Views expressed here are my own, and do not represent the college's position.
+    affiliation-url: https://ithaca.edu/ 
+date: 07-12-2023
+categories: [Upcoming Posts] # self-defined categories
+#citation: 
+ # url: https://jmochogi.quarto.pub/posts.html
+image: wishlist.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## [Introduction]{style="color:red;"}
+
+
+## Securing the Right Visa
+The first step in preparing for study in the U.S. is securing the appropriate visa. Most students will need an F-1 or J-1 visa. To apply for these visas, students must first be accepted into a Student and Exchange Visitor Program (SEVP) approved school. Once accepted, the school will provide a document called an I-20 or DS-2019, which is needed for the visa application.
+
+## Pre-departure Preparation
+### Health Insurance
+Healthcare in the U.S. can be expensive. Therefore, it’s crucial to have a good health insurance plan. Many universities offer their own health insurance plans for students, but it’s also possible to purchase private health insurance.
+
+### Accommodation
+Some universities offer on-campus housing, which can be a great way for international students to immerse themselves in campus life. Off-campus housing is also an option, and it can offer more independence and privacy.
+
+### Packing
+When packing, consider the climate of the city you’ll be living in. Also, remember to pack important documents, such as your passport, visa, I-20 or DS-2019, and acceptance letter from your university.
+
+## Upon Arrival
+### Orientation
+Most universities offer orientation programs for international students. These programs are designed to help students adjust to life in the U.S. and understand the academic system.
+
+### Social Security Number
+If you plan to work in the U.S., you’ll need a Social Security number (SSN). You can apply for an SSN at your local Social Security office.
+
+### Bank Account
+Opening a bank account in the U.S. can make managing your finances easier. To open an account, you’ll typically need your passport, I-20 or DS-2019, and proof of address.
+
+## Cultural Adjustment
+Living in a new country can be a culture shock. It’s important to be open-minded and patient with yourself as you adjust to American culture. Joining student clubs and organizations can be a great way to make friends and learn about American culture.
+
+## Conclusion
+While preparing for travel and study in the U.S. can seem overwhelming, careful planning can make the process smoother. Remember, studying abroad is not just about academics, it’s also an opportunity to learn about a new culture, make lifelong friends, and grow as an individual. Good luck on your journey!

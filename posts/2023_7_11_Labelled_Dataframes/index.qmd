@@ -1,0 +1,94 @@
+---
+title: "Labelled Data"
+description: "Labeled Data frames allow you to see the variable details in a data frame. But how do you create these labels?"
+author:
+  - name: Joash Geteregechi
+    url: https://jmochogi.quarto.pub
+    orcid: 0000-0003-0266-4006
+    affiliation: Ithaca College department of mathematics. Views expressed here are my own, and do not represent the college's position.
+    affiliation-url: https://ithaca.edu/ 
+date: 07-09-2023
+categories: [Data Science, R] # self-defined categories
+citation: 
+  url: https://jmochogi.quarto.pub/posts/2023-07-09-Why-The-Pipe/
+image: labels.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## What is labelled data?
+
+Labelled data are similar to regular data, but with the added feature of variable labels. Variable labels are descriptive names that can be assigned to each column in the data frame. This can make it easier to understand what each column represents and to communicate your results more effectively.
+
+Having a separate documentation for checking labels can slow down your workflow.
+
+You will need the following packages to create and use variable labels in your data frame. If you are missing any of these, you will need to install them first.
+
+```{r, message=FALSE}
+library(tidyverse)      # general wrangling
+library(labelled)       # for general functions to work with labelled data
+library(sjlabelled)     # for example efc data set with variable labels
+library(gtsummary)      # to demonstrate automatic use of variable labels in summary tables 
+library(ggeasy)         # to use variable labels in ggplot
+```
+
+## Labelling your data frame
+
+As an example, we are going to label the popular mtcars data frame that comes with R. We use the function `set_variable_labels()` in the following manner to achieve this goal. Notice that the labels are strings so we put them in quotes:
+
+```{r}
+mtcars_labelled <- mtcars %>% 
+  set_variable_labels(
+    mpg     = "Miles travelled per gallon",
+    cyl      = "Number of cylinders",
+    disp    = "Displacement",
+    hp      = "Gross horsepower",
+    drat    = "Rear axle ratio",
+    wt      = "Weight (1000 lbs)",
+    qsec    = "1/4 mile time",
+    vs      = "Engine (0 = V-shaped, 1 = straight)",
+    am      = "Transmission (0 = automatic, 1 = manual)",
+    gear    = "Number of forward gears",
+    carb    = "Number of carburetors"
+  )
+```
+
+Note that if you mistype any of variables, the labels will not be created. You should double check to ensure that you typed everything correctly.
+
+Run the code `view(mtcars_labelled)` to check whether there are any errors with your labeling.
+
+## Graphs
+
+We can also create graphs using the labels. Here is a scatter plot of horse power against displacement. The points are colored by number of cylinders.
+
+```{r}
+mtcars_labelled |> 
+  ggplot(aes(x = disp, y = hp, color = cyl)) +
+  geom_point() +
+  easy_labs()
+```
+
+## In Summary Tables
+
+Here is an example of a summary table using labels instead of the variables themselves:
+
+```{r}
+mtcars_labelled |> 
+  select(gear, vs, hp) |> 
+  tbl_summary(
+    by = vs
+  ) |> 
+  bold_labels()
+```
+
+------------------------------------------------------------------------
+
+Finally, you can easily generate a data dictionary to see the variables, their lables, and types. Use the code:
+
+```{r}
+mtcars_labelled |> 
+  generate_dictionary()
+```
+
+For more information about labelling, including automatic labelling of huge data frames, check out [Shannon Pileggi's](https://www.pipinghotdata.com/posts/2022-09-13-the-case-for-variable-labels-in-r/) site.
+
+Happy labeling!

@@ -1,0 +1,75 @@
+project:
+  type: website
+website:
+  title: "jmochogi"
+  navbar:
+    background: primary
+    pinned: true
+    right:
+      - href: index.qmd # This links to the index file.
+        text: Welcome # This is the label that appears on the navigation bar.
+      #- href: about.qmd
+      
+      - teaching.qmd # This links to the teaching page.
+      
+      - posts.qmd # This links to the posts page.
+      
+     # - text: "Teaching" # Here, the text property is used to create a label on the nav bar.
+      #  menu:
+      #  - philosophy.qmd # The menu property is used to link to target files under Teaching. 
+       # - courses.qmd
+        
+      - text: "Research"
+        menu:
+        - publications.qmd # The menu property is used to link to target files under Teaching. 
+        - conferences.qmd
+
+      - href: cv.qmd
+        text: CV
+      #  menu: 
+       #   - myposts.qmd
+        #  - sumstat.qmd # Line 24 to 27 had the previous version of the blog. 
+        
+#I can delete this sidebar (line 20-30) later but at least it shows stuff. 
+#Notice at the moment the sidebar shows the same pages as navbar.
+# Can add more stuff to the side bar as need be. E.g., can have each course as
+#its own page and then have courses as a sidebar item. Remove comments 20-30. 
+#  sidebar:
+ #   style: "docked"
+  #  search: true
+  #  contents:
+ #     - section: "Basics"
+ #       contents:
+  #        - about.qmd
+  #    - section: "Site Content"
+   #     contents:
+   #      - Research.qmd
+    #      - Courses.qmd
+format:
+  html:
+    theme:
+      #- mystyles.scss # Remove this comment to apply custom styles
+      light: sandstone
+      dark: superhero
+    css: styles.css # This file defines website settings. 
+    toc: true
+    page-layout: full
+    mainfont: ui-rounded
+    code-fold: true
+
+# Check the quarto website documentation for more customization options.
+# To change background color to normal (white), can just use "transparent".
+geometry: margin=3in
+fontsize: 14.0pt
+linestretch: 2.0
+
+#Play around with the hsl color code. See site: https://www.december.com/html/spec/colorhsl.html 
+
+#The latest backround color I used is elow:
+#backgroundcolor: hsl(217, 14%, 70%)
+
+#The chatGPT color: backgroundcolor: hsl(235, 11.1%, 22.9%)
+#backgroundcolor: hsl(240, 15.2%, 87.1%)
+
+editor: visual
+

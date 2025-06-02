@@ -1,0 +1,9 @@
+---
+title: "Mathematics for Decision Making"
+description: "In this course students learn basic ideas in mathematics of finance. Emphasis is placed on understanding how interest rates work and how they can use the knowledge in making decisions relating to investements, personal loans, mortgages, among others."
+ 
+image: infer.jpeg
+#draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+href: "https://jmochogi.github.io/intermediate-stats/"
+---
+

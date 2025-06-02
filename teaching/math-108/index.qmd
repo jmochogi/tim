@@ -1,0 +1,9 @@
+---
+title: "Applied Calculus"
+description: "This course covers differential calculus ideas with a heavy emphasis on applications"
+ 
+image: logo.jpeg
+#draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+href: "https://jmochogi.github.io/intermediate-stats/"
+---
+

@@ -1,0 +1,42 @@
+---
+title: "Joash Geteregechi"
+about:
+  id: hero-heading
+  template: jolla
+  image: images/joash_pic.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/jmochogi
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: email
+      text: jgeteregechi@ithaca.edu
+      href: jgeteregechi@ithaca.edu 
+---
+
+## Welcome to my Website
+
+::: {#hero-heading}
+My name is Joash Geteregechi. I am an Assistant Professor of mathematics at Ithaca College in Ithaca, New York. I am dedicated to inspiring and empowering students through the beauty and depth of mathematical concepts and how they can be used to solve many real-world problems. With a strong background in academia and a genuine enthusiasm for the subject, I strive to make mathematics accessible, engaging, and meaningful to learners of all levels and backgrounds.
+
+## Education
+
+Syracuse University \| Syracuse, New York\| PhD (Mathematics Education) \| Aug 2020
+
+Kenyatta University \| Nairobi, Kenya\| M.Ed (Mathematics)\| Sept 2013
+
+Egerton University \| Nakuru, Kenya\| B.Ed (Mathematics and Chemistry)\| Dec 2008
+
+## Experience
+
+Assistant Professor of Mathematics \| Ithaca College \| Aug 2020 - Present
+
+Teaching Assistant (Mathematics) \| Syracuse University \| Aug 2015 - Aug 2020
+
+High School Teacher (Mathematics) \| Nyamauro Secondary School \| Sep 2010 - Apr 2015
+
+:::
+
+### 
