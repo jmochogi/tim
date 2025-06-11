@@ -1,0 +1,41 @@
+- title: Calculus I
+  description: "An introduction to differential calculus, including limits, derivatives, and applications of differentiation."
+  university: Ithaca College
+  number: MATH 11100
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Fall 2020 (virtual)
+   # url: https://compaf24.classes.andrewheiss.com/
+    
+    
+- title: Mathematics for Decision Making
+  description: "This course covers mathematical concepts and techniques with a focus on applications in making daily life decisions. Topics include functions, linear programming, game theory, and mathematics of finance."
+  university: Ithaca College
+  number: MATH 10500
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Fall 2020 (virtual)
+   # url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+   
+    
+
+- title: Statistics for the Health, Life, and Social Sciences
+  description: "An introductory statistics course that covers basic statistical concepts and methods, including descriptive statistics, basic probability, and inferential statistics. The course emphasises applications in health, life, and social sciences."
+  university: Ithaca College
+  number: MATH 14500
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Spring 2021 (hybrid)
+   # url: https://jmochogi.github.io/finite-math/
+   
+   
+   
+   
+   
+   
+   
+   
+   

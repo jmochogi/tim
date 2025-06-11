@@ -1,0 +1,31 @@
+- title: Algebra-infused Precalculus
+  description: "This course is designed to prepare students for calculus by reviewing algebraic concepts and introducing functions, graphs, and trigonometry. It is intended for students who need a solid foundation in algebra before taking calculus."
+  university: Syracuse University
+  number: MATH 193
+  url: https://artsandsciences.syracuse.edu/mathematics/undergraduate-studies/syllabi/ 
+  logo: logos/su-gen.png
+  semester:
+  - name: Fall 2016
+   # url: https://compaf24.classes.andrewheiss.com/
+   
+   
+- title: Calculus for the Life Sciences
+  description: "This course is designed for students in the life sciences and covers the fundamental concepts of calculus, including limits, derivatives, and integrals, with applications to biological systems."
+  university: Syracuse University
+  number: MATH 285
+  url: https://artsandsciences.syracuse.edu/mathematics/undergraduate-studies/syllabi/ 
+  logo: logos/su-gen.png
+  semester:
+  - name: Spring 2017
+   # url: https://compaf24.classes.andrewheiss.com/
+    
+    
+- title: Statistics and Probability for Liberal Arts I
+  description: "First course in a two-course sequence. Teaches probability and statistics by focusing on data and  reasoning and includes displaying data, probability models, and distributions."
+  university: Syracuse University
+  number: MATH 121
+  url: https://artsandsciences.syracuse.edu/mathematics/undergraduate-studies/syllabi/ 
+  logo: logos/su-gen.png
+  semester:
+  - name: Summer 2017
+   # url: https://compaf24.classes.andrewheiss.com/

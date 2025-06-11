@@ -8,24 +8,25 @@ website:
     pinned: true
     right:
       - href: index.qmd # This links to the index file.
-        text: Welcome # This is the label that appears on the navigation bar.
+        text: About Me # This is the label that appears on the navigation bar.
       #- href: about.qmd
       
-      - teaching.qmd # This links to the teaching page.
-      
-      - posts.qmd # This links to the posts page.
-      
-     # - text: "Teaching" # Here, the text property is used to create a label on the nav bar.
-      #  menu:
-      #  - philosophy.qmd # The menu property is used to link to target files under Teaching. 
-       # - courses.qmd
+      - href: teaching/index.qmd
+        text: "Teaching"
         
       - text: "Research"
         menu:
         - publications.qmd # The menu property is used to link to target files under Teaching. 
         - conferences.qmd
 
-      - href: cv.qmd
+      - posts.qmd # This links to the posts page.
+      
+     # - text: "Teaching" # Here, the text property is used to create a label on the nav bar.
+      #  menu:
+      #  - philosophy.qmd # The menu property is used to link to target files under Teaching. 
+       # - courses.qmd
+  
+      - href: cv/index.qmd
         text: CV
       #  menu: 
        #   - myposts.qmd
@@ -46,23 +47,20 @@ website:
    #     contents:
    #      - Research.qmd
     #      - Courses.qmd
+
 format:
   html:
-    theme:
-      #- mystyles.scss # Remove this comment to apply custom styles
-      light: sandstone
-      dark: superhero
-    css: styles.css # This file defines website settings. 
-    toc: true
-    page-layout: full
-    mainfont: ui-rounded
-    code-fold: true
-
-# Check the quarto website documentation for more customization options.
-# To change background color to normal (white), can just use "transparent".
-geometry: margin=3in
-fontsize: 14.0pt
-linestretch: 2.0
+    theme: 
+      - html/ath.scss
+    grid: 
+      body-width: 900px
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai
 
 #Play around with the hsl color code. See site: https://www.december.com/html/spec/colorhsl.html 
 
@@ -73,4 +71,8 @@ linestretch: 2.0
 #backgroundcolor: hsl(240, 15.2%, 87.1%)
 
 editor: visual
+
+
+
+
 

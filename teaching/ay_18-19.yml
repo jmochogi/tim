@@ -1,0 +1,23 @@
+- title: Foundational Mathematics via Problem Solving I
+  description: "This course is designed to develop mathematical problem-solving skills through a variety of topics, including number theory, . The course is primarily taken by preservivice elementary school teachers"
+  university: Syracuse University
+  number: MATH 117
+  url: https://artsandsciences.syracuse.edu/mathematics/undergraduate-studies/syllabi/ 
+  logo: logos/su-gen.png
+  semester:
+  - name: Fall 2018
+   # url: https://compaf24.classes.andrewheiss.com/
+   
+   
+- title: Foundational Mathematics via Problem Solving II
+  description: "This course is a continuation of MATH 117 and focuses on topics such as fractions."
+  university: Syracuse University
+  number: MATH 118
+  url: https://artsandsciences.syracuse.edu/mathematics/undergraduate-studies/syllabi/ 
+  logo: logos/su-gen.png
+  semester:
+  - name: Spring 2019
+   # url: https://compaf24.classes.andrewheiss.com/
+    
+    
+   

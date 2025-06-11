@@ -1,0 +1,43 @@
+- title: Basic Statistical Reasoning
+  description: "An introduction to statistical reasoning and methods, including descriptive statistics, basic probability, and inferential statistics. This course is designed for students who are not majoring in mathematics or statistics."
+  university: Ithaca College
+  number: MATH 15500
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Fall 2021 (in-person)
+    #url: https://jmochogi.github.io/intermediate-stats/
+    
+    
+- title: Mathematics for Decision Making
+  description: "This course covers mathematical concepts and techniques with a focus on applications in making daily life decisions. Topics include functions, linear programming, game theory, and mathematics of finance."
+  university: Ithaca College
+  number: MATH 10500
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Fall 2021 (in-person)
+   # url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+   
+
+- title: Intermediate Statistics
+  description: "A second course in statistics that uses R programming to explore statistical concepts such as regression modelling and hypothesis testing."
+  university: Ithaca College
+  number: MATH 24600
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Fall 2021 (in-person)
+   # url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  
+    
+
+- title: Business Statistics
+  description: "An introduction to statistical methods and their applications in business. Topics include design of studies, descriptive statistics, basic probability, sampling distributions, hypothesis testing, and regression analysis."
+  university: Ithaca College
+  number: MATH 14400
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Spring 2022 (in-person)
+    #url: https://jmochogi.github.io/intermediate-stats/

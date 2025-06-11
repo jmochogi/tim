@@ -1,0 +1,42 @@
+- title: Intermediate Statistics
+  description: "A second course in statistics that uses R programming to explore statistical concepts such as regression modelling and hypothesis testing."
+  university: Ithaca College
+  number: MATH 24600
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Fall 2023 (in-person)
+    #url: https://jmochogi.github.io/intermediate-stats/
+
+
+- title: Finite Mathematics
+  description: "A course that introduces mathematical concepts and techniques used in business, including functions, linear programming, game theory, and financial mathematics."
+  university: Ithaca College
+  number: MATH 10400
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Fall 2023
+   # url: https://jmochogi.github.io/finite-math/
+
+
+- title: Statistics for the Health, Life, and Social Sciences
+  description: "An introductory statistics course that covers basic statistical concepts and methods, including descriptive statistics, basic probability, and inferential statistics. The course emphasises applications in health, life, and social sciences."
+  university: Ithaca College
+  number: MATH 14500
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Spring 2023
+   # url: https://jmochogi.github.io/finite-math/
+
+- title: Mathematics for Decision Making
+  description: "Students learn basic ideas in mathematics of finance. Emphasis is placed on understanding how interest rates work and how they can use the knowledge in making decisions relating to investements, personal loans, mortgages, among others."
+  university: Ithaca College
+  number: MATH 10500
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Spring 2024
+   # url: https://jmochogi.github.io/finite-math/
+

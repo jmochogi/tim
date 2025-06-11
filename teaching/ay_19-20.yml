@@ -1,0 +1,43 @@
+- title: Foundational Mathematics via Problem Solving I
+  description: "This course is designed to develop mathematical problem-solving skills through a variety of topics, including number theory, . The course is primarily taken by preservivice elementary school teachers"
+  university: Syracuse University
+  number: MATH 117
+  url: https://artsandsciences.syracuse.edu/mathematics/undergraduate-studies/syllabi/ 
+  logo: logos/su-gen.png
+  semester:
+  - name: Fall 2019 (in-person)
+   # url: https://compaf24.classes.andrewheiss.com/
+   
+   
+- title: Foundational Mathematics via Problem Solving II
+  description: "This course is a continuation of MATH 117 and focuses on topics such as fractions."
+  university: Syracuse University
+  number: MATH 118
+  url: https://artsandsciences.syracuse.edu/mathematics/undergraduate-studies/syllabi/ 
+  logo: logos/su-gen.png
+  semester:
+  - name: Spring 2020 (virtual)
+   # url: https://compaf24.classes.andrewheiss.com/
+    
+    
+- title: Pre-Calculus
+  description: "This was a special precalculus course for Saudi Arabia students on exhange program seeking to enter various engineering programs."
+  university: Syracuse University
+  number: EFL 751
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/su-gen.png
+  semester:
+  - name: Summer 2020 (in-person)
+   # url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+   
+   
+- title: Probability and Statistics for Liberal Arts II
+  description: "A second course in introductory statistics covering hypotheses testing, estimation problems, sample size determination, statistical prcess control, among others"
+  university: Syracuse University
+  number: MATH 122
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/su-gen.png
+  semester:
+  - name: Summer 2020 (virtual)
+   # url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+   

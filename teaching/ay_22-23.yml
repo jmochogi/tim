@@ -1,0 +1,56 @@
+- title: Graph Theory and Combinatorics
+  description: "An introduction to the theory of graphs and combinatorial structures, including topics such as graph connectivity, planarity, coloring, matching, and enumeration."
+  university: Ithaca College
+  number: MATH 32100
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Fall 2022 (in-person)
+    #url: https://jmochogi.github.io/intermediate-stats/
+   
+    
+    
+- title: Intermediate Statistics
+  description: "A second course in statistics that uses R programming to explore statistical concepts such as regression modelling and hypothesis testing."
+  university: Ithaca College
+  number: MATH 24600
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Fall 2022 (in-person)
+   # url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+
+
+
+- title: Statistics for Health, Life, and Social Sciences
+  description: "An introduction to statistical methods and data analysis, focusing on applications in health, life, and social sciences using R programming."
+  university: Ithaca College
+  number: MATH 14500
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Spring 2022 (in-person)
+   # url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+   
+   
+- title: Mathematics for Decision Making
+  description: "This course covers mathematical concepts and techniques with a focus on applications in making daily life decisions. Topics include functions, linear programming, game theory, and mathematics of finance."
+  university: Ithaca College
+  number: MATH 10500
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+  logo: logos/ic-gen.png
+  semester:
+  - name: Spring 2023 (in-person)
+   # url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   

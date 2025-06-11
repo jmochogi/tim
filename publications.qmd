@@ -5,21 +5,23 @@ editor: visual
 
 ## Publications
 
-1)  Geteregechi, J. M. (2023). Investigating undergraduate students' mathematical reasoning via problem posing. *International Journal of Mathematical Education in Science and Technology*, 1-20. doi: <https://doi.org/10.1080/0020739X.2023.2169646>
+1)  **Geteregechi, J. M.** (2025). An examination of undergraduate students’ problem-posing and its interaction with problem-solving processes. *International Electronic Journal of Mathematics Education*, *20*(1). doi: <https://doi.org/10.29333/iejme/15738>
 
-2)  Geteregechi, J.M.(2023). Characterizing Undergraduate students' Problem Posing Products and Processes in an Introductory Business Mathematics Course. *Proceedings of the 25th Annual Conference on Research in Undergraduate Mathematics Education.* Omaha, Nebraska, USA.
+2)  **Geteregechi, J. M.** (2024). Investigating undergraduate students' mathematical reasoning via problem posing. *International Journal of Mathematical Education in Science and Technology*, 1-20. doi: <https://doi.org/10.1080/0020739X.2023.2169646>
 
-3)  Geteregechi, J.M. (2022). Investigating undergraduate students' mathematical creativity via problem posing. *Proceedings of the 12th International Conference on Mathematical Creativity and Giftedness (MCG 12)*. pp 186-192. Las Vegas, Nevada, USA. doi: <https://doi.org/10.37626/GA9783959872263.0>
+3)  **Geteregechi, J.M.** (2023). Characterizing Undergraduate students' Problem Posing Products and Processes in an Introductory Business Mathematics Course. *Proceedings of the 25th Annual Conference on Research in Undergraduate Mathematics Education.* Omaha, Nebraska, USA.
 
-4)  Geteregechi, J.M. (2021). Characterizing undergraduate students' problem posing products and processes in an Introductory Business mathematics course. *Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education*. Boston, MA, USA.
+4)  **Geteregechi, J.M.** (2022). Investigating undergraduate students' mathematical creativity via problem posing. *Proceedings of the 12th International Conference on Mathematical Creativity and Giftedness (MCG 12)*. pp 186-192. Las Vegas, Nevada, USA. doi: <https://doi.org/10.37626/GA9783959872263.0>
 
-5)  Altindis, N., Geteregechi, J.M., & Waswa A. (2021). Networking multiple reasoning perspectives to characterize students' thinking about quantities and quantitative relationships. *Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education.* Boston, MA, USA.
+5)  **Geteregechi, J.M.** (2021). Characterizing undergraduate students' problem posing products and processes in an Introductory Business mathematics course. *Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education*. Boston, MA, USA.
 
-6)  Ogembo, J.O., Geteregechi, J.M. (2018). Influence of language skills on students' learning and achievement in mathematics in basic education in Kenya. *Research Journal of Educational Studies and Review* 4 *(1)*, pp. 6-11.
+6)  Altindis, N., **Geteregechi, J.M.**, & Waswa A. (2021). Networking multiple reasoning perspectives to characterize students' thinking about quantities and quantitative relationships. *Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education.* Boston, MA, USA.
 
-7)  Geteregechi, J.M. (2017). Investigating the role of mathematical problem posing on pre- service teachers' problem solving processes. *Proceedings of the 45th Annual Conference on Research Council on Mathematics Learning.* Baton Rouge, Louisiana, USA.
+7)  Ogembo, J.O., **Geteregechi, J.M.** (2018). Influence of language skills on students' learning and achievement in mathematics in basic education in Kenya. *Research Journal of Educational Studies and Review* 4 *(1)*, pp. 6-11.
 
-8)  Geteregechi, J.M., Miheso-O'Connor, M. K., & Ondigi, S.R. (2015). How does notational competence affect student understanding and performance in mathematics? *Proceedings of the 4th International Conference on Education, pp. 221-226.* Nairobi, Kenya.
+8)  **Geteregechi, J.M.** (2017). Investigating the role of mathematical problem posing on pre- service teachers' problem solving processes. *Proceedings of the 45th Annual Conference on Research Council on Mathematics Learning.* Baton Rouge, Louisiana, USA.
+
+9)  **Geteregechi, J.M.**, Miheso-O'Connor, M. K., & Ondigi, S.R. (2015). How does notational competence affect student understanding and performance in mathematics? *Proceedings of the 4th International Conference on Education, pp. 221-226.* Nairobi, Kenya.
 
 ## Research Talks
 

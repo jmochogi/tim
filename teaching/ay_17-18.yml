@@ -1,0 +1,31 @@
+- title: Calculus for Life Sciences
+  description: "A calculus course intended for students in the life sciences, covering limits, derivatives, and integrals with applications to biological problems."
+  university: Syracuse University
+  number: MATH 285
+  url: https://artsandsciences.syracuse.edu/mathematics/undergraduate-studies/syllabi/ 
+  logo: logos/su-gen.png
+  semester:
+  - name: Fall 2017
+   # url: https://compaf24.classes.andrewheiss.com/
+   
+   
+- title: Calculus I
+  description: "MAT 295 is the ﬁrst course in a three-semester sequence in calculus. Designed for mathematics, science and engineering majors and for those students in other majors who intend to take more advanced courses in mathematics."
+  university: Syracuse University
+  number: MATH 295
+  url: https://artsandsciences.syracuse.edu/mathematics/undergraduate-studies/syllabi/ 
+  logo: logos/su-gen.png
+  semester:
+  - name: Spring 2018
+   # url: https://compaf24.classes.andrewheiss.com/
+    
+    
+- title: Statistics and Probability for Liberal Arts I
+  description: "First course in a two-course sequence. Teaches probability and statistics by focusing on data and  reasoning and includes displaying data, probability models, and distributions."
+  university: Syracuse University
+  number: MATH 121
+  url: https://artsandsciences.syracuse.edu/mathematics/undergraduate-studies/syllabi/ 
+  logo: logos/su-gen.png
+  semester:
+  - name: Summer 2018
+   # url: https://compaf24.classes.andrewheiss.com/

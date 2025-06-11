@@ -1,0 +1,30 @@
+
+- title: Precalculus
+  description: "A course intended to support students in the successful completion of calculus by focusing on fundamental concepts in functions."
+  university: Syracuse University
+  number: MATH 194
+  url: https://artsandsciences.syracuse.edu/mathematics/undergraduate-studies/syllabi/ 
+  logo: logos/su-gen.png
+  semester:
+  - name: Fall 2015
+   # url: https://compaf24.classes.andrewheiss.com/
+
+- title: Statistics and Probability for Liberal Arts I
+  description: "First course in a two-course sequence. Teaches probability and statistics by focusing on data and  reasoning and includes displaying data, probability models, and distributions."
+  university: Syracuse University
+  number: MATH 121
+  url: https://artsandsciences.syracuse.edu/mathematics/undergraduate-studies/syllabi/ 
+  logo: logos/su-gen.png
+  semester:
+  - name: Spring 2016
+   # url: https://compaf24.classes.andrewheiss.com/  
+    
+- title: Statistics and Probability for Liberal Arts I
+  description: "First course in a two-course sequence. Teaches probability and statistics by focusing on data and  reasoning and includes displaying data, probability models, and distributions."
+  university: Syracuse University
+  number: MATH 121
+  url: https://artsandsciences.syracuse.edu/mathematics/undergraduate-studies/syllabi/ 
+  logo: logos/su-gen.png
+  semester:
+  - name: Summer 2016
+   # url: https://compaf24.classes.andrewheiss.com/

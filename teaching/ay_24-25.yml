@@ -1,0 +1,52 @@
+- title: Intermediate Statistics
+  description: "A second course in statistics that uses R programming to explore statistical concepts such as regression modelling and hypothesis testing."
+  university: Ithaca College
+  number: MATH 24600
+  url: https://jmochogi.github.io/intermediate-stats/
+  logo: logos/math246.png
+  semester:
+  - name: Spring 2025 (in-person)
+    url: https://jmochogi.github.io/intermediate-stats/
+  - name: Fall 2024 (in-person)
+    url: https://jmochogi.github.io/intermediate-stats/
+  #- name: Fall 2023 (in-person)
+  #- name: Fall 2022 (in-person)
+  #- name: Spring 2022 (in-person)
+  
+
+- title: Applied Calculus
+  description: "An introduction to calculus with a focus on applications in areas such as business and social sciences, covering limits, derivatives, and integrals."
+  university: Ithaca College
+  number: MATH 10800
+  url: https://jmochogi.github.io/calc-I/
+  logo: logos/math108.png
+  semester:
+  - name: Spring 2025
+    url: https://jmochogi.github.io/calc-I/
+    
+
+- title: Basic Statistical Reasoning
+  description: "A statistics that covers basic concepts such as descriptive statistics, basic probability, and inferential statistics, with a focus on real-world applications."
+  university: Ithaca College
+  number: MATH 15500
+  url: https://jmochogi.github.io/basic-stat/
+  logo: logos/math155.png
+  semester:
+  - name: Spring 2025
+    url: https://jmochogi.github.io/basic-stat/
+
+- title: Finite Mathematics
+  description: "A course that introduces mathematical concepts and techniques used in business, including functions, linear programming, game theory, and financial mathematics."
+  university: Ithaca College
+  number: MATH 10400
+  url: https://jmochogi.github.io/finite-math/
+  logo: logos/math104.png
+  semester:
+  - name: Fall 2025
+    url: https://jmochogi.github.io/finite-math/
+    
+    
+    
+    
+    
+    
