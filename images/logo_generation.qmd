@@ -1,0 +1,32 @@
+---
+title: "logo_generation code"
+format: html
+---
+
+Use this space to generate hexagonal stickers for the project. The stickers require the "hexSticker" package so make sure it is installed and loaded. This code requires an external image and can be adjusted accordingly within the shape. It is also possible to use code to create the visualization to be enclosed.
+
+```{r}
+library(ggplot2)
+library(hexSticker)
+```
+
+```{r}
+# Install hexSticker if you haven't
+# install.packages("hexSticker")
+
+library(hexSticker)
+
+# Create a hex sticker with an image of your choosing
+sticker(
+  subplot = "ic-gen.png",   # Replace with your image path
+  s_x = 1, s_y = 1.2,              # Centering
+  s_width = .7, s_height = .8, # Size of the image inside hex
+  package = "some text",          # Text at the bottom
+  p_size = 16,
+  p_color = "grey20",
+  h_fill = "white",             # Background color of the hex
+  h_color = "grey20",           # Border color
+  filename = "hex_sticker.png"  # Output filename
+)
+
+```

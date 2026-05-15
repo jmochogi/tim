@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.6.36">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-
 <meta name="author" content="Joash Geteregechi">
 <meta name="dcterms.date" content="2023-07-13">
 <meta name="description" content="Statistical inference deals with making some form of inference about the population under study based on a sample. The infer package provides a smooth workflow for conducting various inference tasks. Read on…">
-
 <title>Infer Statistical Package – jmochogi</title>
 <style>
 code{white-space: pre-wrap;}
@@ -59,7 +56,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }
 </style>
 
-
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
@@ -74,8 +70,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-810adaf2d25f34d1d5f1bd90baf742e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-5e4eaaae0e1d5a731816ba0c850aef5a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script id="quarto-search-options" type="application/json">{
+<link href="../../site_libs/bootstrap/bootstrap-5e4eaaae0e1d5a731816ba0c850aef5a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light"><script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
@@ -101,12 +96,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     "search-submit-button-title": "Submit",
     "search-label": "Search"
   }
-}</script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
+}</script><script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script><script type="text/javascript">
 const typesetMath = (el) => {
   if (window.MathJax) {
     // MathJax Typeset
@@ -132,15 +122,11 @@ window.Quarto = {
   typesetMath
 };
 </script>
-
 </head>
-
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
-      <div class="navbar-container container-fluid">
+  <header id="quarto-header" class="headroom fixed-top"><nav class="navbar navbar-expand-lg " data-bs-theme="dark"><div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">jmochogi</span>
@@ -152,7 +138,7 @@ window.Quarto = {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
+<li class="nav-item">
     <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">About Me</span></a>
   </li>  
@@ -160,16 +146,12 @@ window.Quarto = {
     <a class="nav-link" href="../../teaching/index.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../posts.html"> 
-<span class="menu-text">Blog</span></a>
-  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Research</span>
     </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-research">    
-        <li>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-research">
+<li>
     <a class="dropdown-item" href="../../publications.html">
  <span class="dropdown-text">Publications</span></a>
   </li>  
@@ -178,29 +160,27 @@ window.Quarto = {
  <span class="dropdown-text">Conferences</span></a>
   </li>  
     </ul>
-  </li>
+</li>
   <li class="nav-item">
-    <a class="nav-link" href="../../cv.html"> 
+    <a class="nav-link" href="../../posts.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../cv/index.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
 </ul>
-          </div> <!-- /navcollapse -->
+</div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
-    </nav>
-</header>
-<!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+    </nav></header><!-- content --><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
+<main class="content page-columns page-full" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
 <h1 class="title">Infer Statistical Package</h1>
   <div class="quarto-categories">
     <div class="quarto-category">Data Science</div>
@@ -245,118 +225,103 @@ window.Quarto = {
   
 
 
-</header>
-
-
-<section id="introduction" class="level2">
-<h2 class="anchored" data-anchor-id="introduction"><span style="color:#349beb;">Introduction</span></h2>
+</header><section id="introduction" class="level2"><h2 class="anchored" data-anchor-id="introduction"><span style="color:#349beb;">Introduction</span></h2>
 <p>Statistics is the bedrock of modern data analysis, enabling researchers and data scientists to draw meaningful conclusions from data. One crucial aspect of statistical analysis is statistical inference, which allows us to make predictions, test hypotheses, and estimate population parameters based on sample data. In the world of R programming, the infer package in RStudio is a powerful tool that simplifies and streamlines the process of conducting statistical inference. In this blog post, we’ll explore the infer package and learn how it can be harnessed to uncover hidden truths in your data.</p>
-</section>
-<section id="what-is-the-infer-package" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-the-infer-package"><span style="color:#349beb;">What is the infer package?</span></h2>
+</section><section id="what-is-the-infer-package" class="level2"><h2 class="anchored" data-anchor-id="what-is-the-infer-package"><span style="color:#349beb;">What is the infer package?</span></h2>
 <p>The infer package is an R package that provides a user-friendly interface for conducting statistical inference. Developed by Hadley Wickham and other contributors, this package extends the capabilities of tidyverse by offering functions designed to perform essential inferential tasks. Whether you need to estimate confidence intervals, perform hypothesis testing, or compare groups, the infer package has got you covered.</p>
-</section>
-<section id="key-features-and-functionalities" class="level2">
-<h2 class="anchored" data-anchor-id="key-features-and-functionalities"><span style="color:#349beb;">Key Features and Functionalities</span></h2>
-<section id="point-estimates-and-confidence-intervals" class="level3">
-<h3 class="anchored" data-anchor-id="point-estimates-and-confidence-intervals"><span style="color:#349beb;">Point Estimates and Confidence Intervals:</span></h3>
+</section><section id="key-features-and-functionalities" class="level2"><h2 class="anchored" data-anchor-id="key-features-and-functionalities"><span style="color:#349beb;">Key Features and Functionalities</span></h2>
+<section id="point-estimates-and-confidence-intervals" class="level3"><h3 class="anchored" data-anchor-id="point-estimates-and-confidence-intervals"><span style="color:#349beb;">Point Estimates and Confidence Intervals:</span></h3>
 <p>One of the fundamental tasks in statistical inference is estimating population parameters from a sample. With the infer package, generating point estimates and constructing confidence intervals is a breeze. By leveraging the %&gt;% pipe operator and other tidyverse functions, you can easily summarize your data, compute the point estimates, and calculate confidence intervals.</p>
-</section>
-<section id="hypothesis-testing" class="level3">
-<h3 class="anchored" data-anchor-id="hypothesis-testing"><span style="color:#349beb;">Hypothesis Testing:</span></h3>
+</section><section id="hypothesis-testing" class="level3"><h3 class="anchored" data-anchor-id="hypothesis-testing"><span style="color:#349beb;">Hypothesis Testing:</span></h3>
 <p>The infer package streamlines hypothesis testing in R. It allows you to compare groups or test against a known value, with a choice between parametric and non-parametric methods. Whether you are dealing with one-sample, two-sample, or paired data, the package offers intuitive functions to conduct t-tests, Wilcoxon tests, and much more.</p>
-</section>
-<section id="bootstrapping" class="level3">
-<h3 class="anchored" data-anchor-id="bootstrapping"><span style="color:#349beb;">Bootstrapping:</span></h3>
+</section><section id="bootstrapping" class="level3"><h3 class="anchored" data-anchor-id="bootstrapping"><span style="color:#349beb;">Bootstrapping:</span></h3>
 <p>Bootstrapping is a powerful resampling technique for estimating the sampling distribution of a statistic. The infer package makes bootstrapping easy, enabling you to generate thousands of resamples, calculate confidence intervals, and visualize the results.</p>
-</section>
-<section id="regression-inference" class="level3">
-<h3 class="anchored" data-anchor-id="regression-inference"><span style="color:#349beb;">Regression Inference:</span></h3>
+</section><section id="regression-inference" class="level3"><h3 class="anchored" data-anchor-id="regression-inference"><span style="color:#349beb;">Regression Inference:</span></h3>
 <p>When dealing with regression models, the infer package enables you to assess the statistical significance of coefficients and compare models using the lm() or glm() functions. It also simplifies the process of generating predictions and confidence intervals for the response variable.</p>
-</section>
-<section id="randomization-tests" class="level3">
-<h3 class="anchored" data-anchor-id="randomization-tests"><span style="color:#349beb;">Randomization Tests:</span></h3>
+</section><section id="randomization-tests" class="level3"><h3 class="anchored" data-anchor-id="randomization-tests"><span style="color:#349beb;">Randomization Tests:</span></h3>
 <p>Randomization tests, also known as permutation tests, are invaluable when you cannot make assumptions about the underlying data distribution. The infer package empowers you to perform randomization tests effortlessly, helping you draw valid conclusions from non-parametric data.</p>
-</section>
-</section>
-<section id="examples-of-statistical-inference-with-infer" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="examples-of-statistical-inference-with-infer"><span style="color:#349beb;">Examples of Statistical Inference with infer</span></h2>
+</section></section><section id="examples-of-statistical-inference-with-infer" class="level2 page-columns page-full"><h2 class="anchored" data-anchor-id="examples-of-statistical-inference-with-infer"><span style="color:#349beb;">Examples of Statistical Inference with infer</span></h2>
 <p>You can use the package to perform theory-based or simulation-based inference. I will walk you through how to perform each one of these for a single mean. I will use a data frame called gss (general social survey).</p>
 <p>Suppose we want to use our sample data to test the hypothesis that the population mean time (in hours) is different from 40 (this test is two-sided). Here are the hypotheses in words and in symbols:</p>
 <ul>
 <li><p>Null hypothesis: <span class="math inline">\(H_0:\mu=40\)</span>, the population means is 40 hours.</p></li>
 <li><p>Alternative hypothesis: <span class="math inline">\(H_a: \mu \neq 40\)</span>, the population mean is not 40 hours.</p></li>
 </ul>
-<section id="simulation-based-inference" class="level3 page-columns page-full">
-<h3 class="anchored" data-anchor-id="simulation-based-inference">Simulation-based inference</h3>
+<section id="simulation-based-inference" class="level3 page-columns page-full"><h3 class="anchored" data-anchor-id="simulation-based-inference">Simulation-based inference</h3>
 <ol type="1" class="page-columns page-full">
-<li><p>Calculate the observed statistic (i.e., sample mean for hours variable), saving it as x_bar.</p>
+<li>
+<p>Calculate the observed statistic (i.e., sample mean for hours variable), saving it as x_bar.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode toml code-with-copy"><code class="sourceCode toml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dt">x_bar</span> <span class="er">&lt;</span><span class="dt">-</span> <span class="dt">gss</span> <span class="er">%&gt;%</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="dt">specify</span><span class="er">(</span><span class="dt">response</span> <span class="op">=</span> <span class="dt">hours</span><span class="er">)</span> <span class="er">%&gt;%</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="dt">calculate</span><span class="er">(</span><span class="dt">stat</span> <span class="op">=</span> <span class="st">"mean"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
-<li><p>Create the simulation-based null distribution. Here, we are simulating 1000 statistics (means) which we can then graph (next step) to visualize their distribution:</p>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="dt">calculate</span><span class="er">(</span><span class="dt">stat</span> <span class="op">=</span> <span class="st">"mean"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</li>
+<li>
+<p>Create the simulation-based null distribution. Here, we are simulating 1000 statistics (means) which we can then graph (next step) to visualize their distribution:</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode toml code-with-copy"><code class="sourceCode toml"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="dt">null_dist</span> <span class="er">&lt;</span><span class="dt">-</span> <span class="dt">gss</span> <span class="er">%&gt;%</span></span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="dt">specify</span><span class="er">(</span><span class="dt">response</span> <span class="op">=</span> <span class="dt">hours</span><span class="er">)</span> <span class="er">%&gt;%</span></span>
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="dt">hypothesize</span><span class="er">(</span><span class="dt">null</span> <span class="op">=</span> <span class="st">"point"</span><span class="er">,</span> <span class="dt">mu</span> <span class="op">=</span> <span class="dv">40</span><span class="er">)</span> <span class="er">%&gt;%</span></span>
 <span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="dt">generate</span><span class="er">(</span><span class="dt">reps</span> <span class="op">=</span> <span class="dv">1000</span><span class="er">)</span> <span class="er">%&gt;%</span></span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">calculate</span><span class="er">(</span><span class="dt">stat</span> <span class="op">=</span> <span class="st">"mean"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
-<li class="page-columns page-full"><p>(Optional step) Visualize the (sampling) distribution:</p>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">calculate</span><span class="er">(</span><span class="dt">stat</span> <span class="op">=</span> <span class="st">"mean"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</li>
+<li class="page-columns page-full">
+<p>(Optional step) Visualize the (sampling) distribution:</p>
 <div class="sourceCode" id="cb3"><pre class="sourceCode toml code-with-copy"><code class="sourceCode toml"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="dt">visualize</span><span class="er">(</span><span class="dt">null_dist</span><span class="er">)</span> <span class="er">+</span></span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="dt">shade_p_value</span><span class="er">(</span><span class="dt">obs_stat</span> <span class="op">=</span> <span class="dt">x_bar</span><span class="er">,</span> <span class="dt">direction</span> <span class="op">=</span> <span class="st">"two-sided"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell page-columns page-full">
 <div class="cell-output-display page-columns page-full">
 <div class="quarto-figure quarto-figure-center page-columns page-full">
-<figure class="figure page-columns page-full">
-<p><img src="../../../../jmochogi/posts/2023_07_13_Statistical_Inference/inf.png" class="img-fluid figure-img" style="width:65.0%"></p>
-<figcaption class="margin-caption">.</figcaption>
-</figure>
+<figure class="figure page-columns page-full"><p><img src="../../../../jmochogi/posts/2023_07_13_Statistical_Inference/inf.png" class="img-fluid figure-img" style="width:65.0%"></p>
+<figcaption class="margin-caption">.</figcaption></figure>
 </div>
 </div>
-</div></li>
-<li><p>Calculate the p-value and write your conclusion:</p>
+</div>
+</li>
+<li>
+<p>Calculate the p-value and write your conclusion:</p>
 <div class="sourceCode" id="cb4"><pre class="sourceCode toml code-with-copy"><code class="sourceCode toml"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="dt">null_dist</span> <span class="er">%&gt;%</span></span>
-<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="dt">get_p_value</span><span class="er">(</span><span class="dt">obs_stat</span> <span class="op">=</span> <span class="dt">x_bar</span><span class="er">,</span> <span class="dt">direction</span> <span class="op">=</span> <span class="st">"two-sided"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
-</ol>
-</section>
-<section id="theory-based-t-test-inference" class="level3 page-columns page-full">
-<h3 class="anchored" data-anchor-id="theory-based-t-test-inference">Theory-based (t-test) inference</h3>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="dt">get_p_value</span><span class="er">(</span><span class="dt">obs_stat</span> <span class="op">=</span> <span class="dt">x_bar</span><span class="er">,</span> <span class="dt">direction</span> <span class="op">=</span> <span class="st">"two-sided"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</li>
+</ol></section><section id="theory-based-t-test-inference" class="level3 page-columns page-full"><h3 class="anchored" data-anchor-id="theory-based-t-test-inference">Theory-based (t-test) inference</h3>
 <p>The theory-based inference assumes the t-distribution (must check all conditions) to find the p-value. Below are the steps:</p>
 <ol type="1">
-<li><p>Calculate the observed statistic (the T-score) and save it as t_bar:</p>
+<li>
+<p>Calculate the observed statistic (the T-score) and save it as t_bar:</p>
 <div class="sourceCode" id="cb5"><pre class="sourceCode toml code-with-copy"><code class="sourceCode toml"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="dt">t_bar</span> <span class="er">&lt;</span><span class="dt">-</span> <span class="dt">gss</span> <span class="er">%&gt;%</span></span>
 <span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="dt">specify</span><span class="er">(</span><span class="dt">response</span> <span class="op">=</span> <span class="dt">hours</span><span class="er">)</span> <span class="er">%&gt;%</span></span>
 <span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="dt">hypothesize</span><span class="er">(</span><span class="dt">null</span> <span class="op">=</span> <span class="st">"point"</span><span class="er">,</span> <span class="dt">mu</span> <span class="op">=</span> <span class="dv">40</span><span class="er">)</span> <span class="er">%&gt;%</span></span>
-<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="dt">calculate</span><span class="er">(</span><span class="dt">stat</span> <span class="op">=</span> <span class="st">"t"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
-<li><p>Generate the null distribution assuming the t-distribution:</p>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="dt">calculate</span><span class="er">(</span><span class="dt">stat</span> <span class="op">=</span> <span class="st">"t"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</li>
+<li>
+<p>Generate the null distribution assuming the t-distribution:</p>
 <div class="sourceCode" id="cb6"><pre class="sourceCode toml code-with-copy"><code class="sourceCode toml"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="dt">null_dist_theory</span> <span class="er">&lt;</span><span class="dt">-</span> <span class="dt">gss</span> <span class="er">%&gt;%</span></span>
 <span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="dt">specify</span><span class="er">(</span><span class="dt">response</span> <span class="op">=</span> <span class="dt">hours</span><span class="er">)</span>  <span class="er">%&gt;%</span></span>
-<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="dt">assume</span><span class="er">(</span><span class="dt">"t"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
-<li><p>Visualize</p>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="dt">assume</span><span class="er">(</span><span class="dt">"t"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</li>
+<li>
+<p>Visualize</p>
 <div class="sourceCode" id="cb7"><pre class="sourceCode toml code-with-copy"><code class="sourceCode toml"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="dt">visualize</span><span class="er">(</span><span class="dt">null_dist_theory</span><span class="er">)</span> <span class="er">+</span></span>
-<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="dt">shade_p_value</span><span class="er">(</span><span class="dt">obs_stat</span> <span class="op">=</span> <span class="dt">t_bar</span><span class="er">,</span> <span class="dt">direction</span> <span class="op">=</span> <span class="st">"two-sided"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="dt">shade_p_value</span><span class="er">(</span><span class="dt">obs_stat</span> <span class="op">=</span> <span class="dt">t_bar</span><span class="er">,</span> <span class="dt">direction</span> <span class="op">=</span> <span class="st">"two-sided"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</li>
 </ol>
 <div class="cell page-columns page-full">
 <div class="cell-output-display page-columns page-full">
 <div class="quarto-figure quarto-figure-center page-columns page-full">
-<figure class="figure page-columns page-full">
-<p><img src="../../../../jmochogi/posts/2023_07_13_Statistical_Inference/inft.jpeg" class="img-fluid figure-img" style="width:65.0%"></p>
-<figcaption class="margin-caption">.</figcaption>
-</figure>
+<figure class="figure page-columns page-full"><p><img src="../../../../jmochogi/posts/2023_07_13_Statistical_Inference/inft.jpeg" class="img-fluid figure-img" style="width:65.0%"></p>
+<figcaption class="margin-caption">.</figcaption></figure>
 </div>
 </div>
 </div>
 <ol start="4" type="1">
-<li><p>Compute the p-value for your test and write the conclusion:</p>
+<li>
+<p>Compute the p-value for your test and write the conclusion:</p>
 <div class="sourceCode" id="cb8"><pre class="sourceCode toml code-with-copy"><code class="sourceCode toml"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="dt">null_dist</span> <span class="er">%&gt;%</span></span>
-<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a><span class="dt">get_p_value</span><span class="er">(</span><span class="dt">obs_stat</span> <span class="op">=</span> <span class="dt">t_bar</span><span class="er">,</span> <span class="dt">direction</span> <span class="op">=</span> <span class="st">"two-sided"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a><span class="dt">get_p_value</span><span class="er">(</span><span class="dt">obs_stat</span> <span class="op">=</span> <span class="dt">t_bar</span><span class="er">,</span> <span class="dt">direction</span> <span class="op">=</span> <span class="st">"two-sided"</span><span class="er">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</li>
 </ol>
 <p>To learn more about how to use infer for inference on other statistics, visit the <a href="https://cran.r-project.org/web/packages/infer/vignettes/observed_stat_examples.html">infer website</a>. The website also provides ways to create confidence intervals, which are are a very important part of statistical inference.</p>
 
 
-</section>
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{geteregechi2023,
+</section></section><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{geteregechi2023,
   author = {Geteregechi, Joash},
   title = {Infer {Statistical} {Package}},
   date = {2023-07-13},
@@ -366,8 +331,7 @@ window.Quarto = {
 </code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-geteregechi2023" class="csl-entry quarto-appendix-citeas" role="listitem">
 Geteregechi, Joash. 2023. <span>“Infer Statistical Package.”</span> July
 13, 2023. <a href="https://jmochogi.quarto.pub/posts/2023-07-06-Data-Wrangling/">https://jmochogi.quarto.pub/posts/2023-07-06-Data-Wrangling/</a>.
-</div></div></section></div></main> <!-- /main -->
-<script id="quarto-html-after-body" type="application/javascript">
+</div></div></section></div></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
     const mode = bsSheetEl.getAttribute("data-mode");
@@ -785,7 +749,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-
 
 
 

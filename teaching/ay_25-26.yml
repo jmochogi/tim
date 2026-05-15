@@ -1,0 +1,31 @@
+- title: Statistics for Business, Economics and Management
+  description: "An introductory statistics course that covers basic statistical concepts and methods, including descriptive statistics, basic probability, and inferential statistics. The course emphasises applications in business, economics, and management."
+  university: Ithaca College
+  number: MATH 14400
+  url: https://jmochogi.github.io/business-stats-f25/
+  logo: logos/math144.png
+  semester:
+  - name: Fall 2025 (in-person)
+    url: https://jmochogi.github.io/business-stats-f25/
+  - name: Spring 2026 (in-person)
+    url: https://jmochogi.github.io/business-stats-s26/
+  #- name: Fall 2023 (in-person)
+  #- name: Fall 2022 (in-person)
+  #- name: Spring 2022 (in-person)
+  
+
+- title: World of Mathematics
+  description: "An introduction to advanced mathematics through faculty presentations. The course introduced students to mathematical reasoning and writing proofs."
+  university: Ithaca College
+  number: MATH 19100
+  #url: https://jmochogi.github.io/calc-I/
+  logo: logos/iclogo.png
+  semester:
+  - name: Spring 2026
+    #url: https://jmochogi.github.io/calc-I/
+    
+
+
+    
+    
+    

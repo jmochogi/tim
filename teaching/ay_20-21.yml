@@ -3,7 +3,7 @@
   university: Ithaca College
   number: MATH 11100
   url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
-  logo: logos/ic-gen.png
+  logo: logos/iclogo.png
   semester:
   - name: Fall 2020 (virtual)
    # url: https://compaf24.classes.andrewheiss.com/
@@ -14,7 +14,7 @@
   university: Ithaca College
   number: MATH 10500
   url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
-  logo: logos/ic-gen.png
+  logo: logos/iclogo.png
   semester:
   - name: Fall 2020 (virtual)
    # url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
@@ -26,7 +26,7 @@
   university: Ithaca College
   number: MATH 14500
   url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
-  logo: logos/ic-gen.png
+  logo: logos/iclogo.png
   semester:
   - name: Spring 2021 (hybrid)
    # url: https://jmochogi.github.io/finite-math/

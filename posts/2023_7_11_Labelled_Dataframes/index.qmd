@@ -63,8 +63,7 @@ We can also create graphs using the labels. Here is a scatter plot of horse powe
 ```{r}
 mtcars_labelled |> 
   ggplot(aes(x = disp, y = hp, color = cyl)) +
-  geom_point() +
-  easy_labs()
+  geom_point() 
 ```
 
 ## In Summary Tables

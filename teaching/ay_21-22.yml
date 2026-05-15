@@ -3,7 +3,7 @@
   university: Ithaca College
   number: MATH 15500
   url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
-  logo: logos/ic-gen.png
+  logo: logos/iclogo.png
   semester:
   - name: Fall 2021 (in-person)
     #url: https://jmochogi.github.io/intermediate-stats/
@@ -14,7 +14,7 @@
   university: Ithaca College
   number: MATH 10500
   url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
-  logo: logos/ic-gen.png
+  logo: logos/iclogo.png
   semester:
   - name: Fall 2021 (in-person)
    # url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
@@ -25,7 +25,7 @@
   university: Ithaca College
   number: MATH 24600
   url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
-  logo: logos/ic-gen.png
+  logo: logos/iclogo.png
   semester:
   - name: Fall 2021 (in-person)
    # url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
@@ -37,7 +37,7 @@
   university: Ithaca College
   number: MATH 14400
   url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
-  logo: logos/ic-gen.png
+  logo: logos/iclogo.png
   semester:
   - name: Spring 2022 (in-person)
     #url: https://jmochogi.github.io/intermediate-stats/

@@ -21,13 +21,13 @@ There are times when you have a data set with several cases (rows) and variables
 
 Suppose you want to create a new variable by transforming an existing variable. What do you do? Manipulating a data set into a format that suites your analysis is called data wrangling. Here are the basic techniques used in data wrangling:
 
--   select
--   mutate
--   filter
--   arrange
--   "summarize", and
--   group_by
--   drop_na
+- select
+- mutate
+- filter
+- arrange
+- "summarize", and
+- group_by
+- drop_na
 
 ```{=html}
 <!-- The following links other pages on the website. I commented them out but you may find them very helpful. the + sign is just for adding an item, not required.
@@ -51,8 +51,8 @@ select (a, b, c)
 
 **Note:**
 
--   After running the above code, a new data set named ***New_Data*** will be created with only three variables a, b, and c.
--   The symbols \<- is used to designate a new object while %\>% is a "pipe" that sends anything on the its left to the commands on the right side. In this case, we pipe Data into a select function, then we state what columns we want to select.
+- After running the above code, a new data set named ***New_Data*** will be created with only three variables a, b, and c.
+- The symbols \<- is used to designate a new object while %\>% is a "pipe" that sends anything on the its left to the commands on the right side. In this case, we pipe Data into a select function, then we state what columns we want to select.
 
 Next, we consider the mutate function.
 
@@ -68,9 +68,9 @@ The mutate function alters (mutates) an existing variable in some way and create
 
 **Note:**
 
--   If you want to delete the original variable from the data set, you can use the "transmute" instead of "mutate".
--   The above example assumes that variables a and b are both numerical, otherwise, addition may not be possible.
--   You can do other operations besides addition.
+- If you want to delete the original variable from the data set, you can use the "transmute" instead of "mutate".
+- The above example assumes that variables a and b are both numerical, otherwise, addition may not be possible.
+- You can do other operations besides addition.
 
 ## [Filter]{style="color:#349beb;"}
 
@@ -85,18 +85,18 @@ filter (sex == "female")
 
 **Note:**
 
--   You can also filter using multiple criteria. For example, if you have another variable called age and you want females that are above 30, you can use the code:
+- You can also filter using multiple criteria. For example, if you have another variable called age and you want females that are above 30, you can use the code:
 
-    ``` toml
-    New_Data_3 <- Data %>% 
-    filter (sex == "female", age > 30)
-    ```
+  ``` toml
+  New_Data_3 <- Data %>% 
+  filter (sex == "female", age > 30)
+  ```
 
--   We use double equal signs "==" to specify the levels of the categorical variable. The level specified must be put in quotes.
+- We use double equal signs "==" to specify the levels of the categorical variable. The level specified must be put in quotes.
 
--   The new data set will have fewer cases than the original data set.
+- The new data set will have fewer cases than the original data set.
 
--   If you want to have an "OR" condition (e.g., cases that are female OR aged above 30), you use "\|" instead of a comma to separate the variables.
+- If you want to have an "OR" condition (e.g., cases that are female OR aged above 30), you use "\|" instead of a comma to separate the variables.
 
 ## [Group_by]{style="color:#349beb;"}
 
@@ -110,19 +110,19 @@ filter (sex == "female")
 
 **Note:**
 
--   The group_by function makes R to think about the data as different data frames.
+- The group_by function makes R to think about the data as different data frames.
 
--   The above code returns the means for each group in a single row. It essentially flattens the data (i.e., the summarize function)
+- The above code returns the means for each group in a single row. It essentially flattens the data (i.e., the summarize function)
 
--   If, for some reason, you want to have a new column in the data set with the mean score for each group, you can replace the summarize function with mutate as follows:
+- If, for some reason, you want to have a new column in the data set with the mean score for each group, you can replace the summarize function with mutate as follows:
 
-    ``` toml
-    New <- Data %>% 
-    group_by(sex) %>% 
-    mutate(mean=mean(age))
-    ```
+  ``` toml
+  New <- Data %>% 
+  group_by(sex) %>% 
+  mutate(mean=mean(age))
+  ```
 
--   This will add a new column named ***mean*** to your data set (now named New) with the mean age for each group.
+- This will add a new column named ***mean*** to your data set (now named New) with the mean age for each group.
 
 ## [drop_na]{style="color:#349beb;"}
 
