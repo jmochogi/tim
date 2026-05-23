@@ -18,14 +18,14 @@ library(hexSticker)
 
 # Create a hex sticker with an image of your choosing
 sticker(
-  subplot = "ic-gen.png",   # Replace with your image path
-  s_x = 1, s_y = 1.2,              # Centering
-  s_width = .7, s_height = .8, # Size of the image inside hex
-  package = "some text",          # Text at the bottom
-  p_size = 16,
+  subplot = "iclogo.png",   # Replace with your image path
+  s_x = 1, s_y = 1,              # Centering
+  s_width = .7, s_height = .7, # Size of the image inside hex
+  package = "",          # Text at the bottom
+  p_size = 6,
   p_color = "grey20",
   h_fill = "white",             # Background color of the hex
-  h_color = "grey20",           # Border color
+  h_color = "#053470",           # Border color
   filename = "hex_sticker.png"  # Output filename
 )
 

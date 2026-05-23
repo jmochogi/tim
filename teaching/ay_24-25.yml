@@ -5,8 +5,8 @@
   url: https://jmochogi.github.io/intermediate-stats/
   logo: logos/math246.png
   semester:
-  - name: Spring 2025 (in-person)
-    url: https://jmochogi.github.io/intermediate-stats/
+  #- name: Spring 2025 (in-person)
+   # url: https://jmochogi.github.io/intermediate-stats/
   - name: Fall 2024 (in-person)
     url: https://jmochogi.github.io/intermediate-stats/
   #- name: Fall 2023 (in-person)
@@ -45,7 +45,16 @@
   - name: Fall 2025
     url: https://jmochogi.github.io/finite-math/
     
-    
+
+- title: Basic Statistics with R
+  description: "An introduction to R, a free scientific computing platform, as applied to basic statistics. Students learn how to manage data, create appropriate graphs, and perform basic statistical tests. This is a 1 credit course that requires a previous stats course."
+  university: Ithaca College
+  number: MATH 24000
+  url: https://jmochogi.github.io/basic-statwithR-sp25/
+  logo: logos/iclogo.png
+  semester:
+  - name: Spring 2025
+    url: https://jmochogi.github.io/basic-statwithR-sp25/
     
     
     

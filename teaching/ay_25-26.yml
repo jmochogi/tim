@@ -18,11 +18,11 @@
   description: "An introduction to advanced mathematics through faculty presentations. The course introduced students to mathematical reasoning and writing proofs."
   university: Ithaca College
   number: MATH 19100
-  #url: https://jmochogi.github.io/calc-I/
+  url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
   logo: logos/iclogo.png
   semester:
   - name: Spring 2026
-    #url: https://jmochogi.github.io/calc-I/
+    #url: https://catalog.ithaca.edu/undergrad/coursesaz/math/
     
 
 
