@@ -3,7 +3,7 @@ title: "Joash Geteregechi"
 about:
   id: hero-heading
   template: jolla
-  image: images/joash_pic.png
+  image: images/Joash_Pic.png
   links:
     - icon: twitter
       text: twitter
