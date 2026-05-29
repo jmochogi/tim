@@ -7,7 +7,7 @@ website:
     background: primary
     pinned: true
     right:
-      - href: index.qmd # This links to the index file.
+      - href: about/index.qmd # This links to the index file.
         text: About Me # This is the label that appears on the navigation bar.
       #- href: about.qmd
       
@@ -16,10 +16,10 @@ website:
         
       - text: "Research"
         menu:
-        - publications.qmd # The menu property is used to link to target files under Teaching. 
+        - publications.qmd # The menu property is used to link to publications. 
         - conferences.qmd
 
-      - posts.qmd # This links to the posts page.
+      - posts.qmd # This links to the posts page. Page contains settings for all blogs.
       
      # - text: "Teaching" # Here, the text property is used to create a label on the nav bar.
       #  menu:
