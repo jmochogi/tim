@@ -7,7 +7,7 @@ website:
     background: primary
     pinned: true
     right:
-      - href: about/index.qmd # This links to the index file.
+      - href: index.qmd # This links to the index file in the root directory.
         text: About Me # This is the label that appears on the navigation bar.
       #- href: about.qmd
       
